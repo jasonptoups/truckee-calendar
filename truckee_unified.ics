@@ -5,409 +5,6 @@ X-WR-CALDESC:Unified calendar from 24 Town of Truckee calendars
 X-WR-CALNAME:Town of Truckee - All Events
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-SUMMARY:Truckee Town Council\, Redevelopment Successor Agency\, and Financ
- ing Authority Meeting
-DTSTART;TZID=America/Los_Angeles:20280627T170000
-DTEND;TZID=America/Los_Angeles:20280627T220000
-DTSTAMP;TZID=America/Los_Angeles:20240726T095807
-UID:869
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=869
-LAST-MODIFIED;TZID=America/Los_Angeles:20240726T095807
-LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Truckee Town Council\, Redevelopment Successor Agency\, and Financ
- ing Authority Meeting
-DTSTART;TZID=America/Los_Angeles:20280523T170000
-DTEND;TZID=America/Los_Angeles:20280523T220000
-DTSTAMP;TZID=America/Los_Angeles:20240726T095807
-UID:868
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=868
-LAST-MODIFIED;TZID=America/Los_Angeles:20240726T095807
-LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Truckee Town Council\, Redevelopment Successor Agency\, and Financ
- ing Authority Meeting
-DTSTART;TZID=America/Los_Angeles:20280425T170000
-DTEND;TZID=America/Los_Angeles:20280425T220000
-DTSTAMP;TZID=America/Los_Angeles:20240726T095807
-UID:867
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=867
-LAST-MODIFIED;TZID=America/Los_Angeles:20240726T095807
-LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Truckee Town Council\, Redevelopment Successor Agency\, and Financ
- ing Authority Meeting
-DTSTART;TZID=America/Los_Angeles:20280328T170000
-DTEND;TZID=America/Los_Angeles:20280328T220000
-DTSTAMP;TZID=America/Los_Angeles:20240726T095807
-UID:866
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=866
-LAST-MODIFIED;TZID=America/Los_Angeles:20240726T095807
-LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Truckee Town Council\, Redevelopment Successor Agency\, and Financ
- ing Authority Meeting
-DTSTART;TZID=America/Los_Angeles:20280222T170000
-DTEND;TZID=America/Los_Angeles:20280222T220000
-DTSTAMP;TZID=America/Los_Angeles:20240726T095807
-UID:865
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=865
-LAST-MODIFIED;TZID=America/Los_Angeles:20240726T095807
-LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Truckee Town Council\, Redevelopment Successor Agency\, and Financ
- ing Authority Meeting
-DTSTART;TZID=America/Los_Angeles:20280125T170000
-DTEND;TZID=America/Los_Angeles:20280125T220000
-DTSTAMP;TZID=America/Los_Angeles:20240726T095807
-UID:864
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=864
-LAST-MODIFIED;TZID=America/Los_Angeles:20240726T095807
-LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Truckee Town Council\, Redevelopment Successor Agency\, and Financ
- ing Authority Meeting
-DTSTART;TZID=America/Los_Angeles:20271228T170000
-DTEND;TZID=America/Los_Angeles:20271228T220000
-DTSTAMP;TZID=America/Los_Angeles:20240726T095807
-UID:863
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=863
-LAST-MODIFIED;TZID=America/Los_Angeles:20240726T095807
-LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Truckee Town Council\, Redevelopment Successor Agency\, and Financ
- ing Authority Meeting
-DTSTART;TZID=America/Los_Angeles:20271123T170000
-DTEND;TZID=America/Los_Angeles:20271123T220000
-DTSTAMP;TZID=America/Los_Angeles:20240726T095807
-UID:862
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=862
-LAST-MODIFIED;TZID=America/Los_Angeles:20240726T095807
-LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Truckee Town Council\, Redevelopment Successor Agency\, and Financ
- ing Authority Meeting
-DTSTART;TZID=America/Los_Angeles:20271026T170000
-DTEND;TZID=America/Los_Angeles:20271026T220000
-DTSTAMP;TZID=America/Los_Angeles:20240726T095807
-UID:861
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=861
-LAST-MODIFIED;TZID=America/Los_Angeles:20240726T095807
-LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Truckee Town Council\, Redevelopment Successor Agency\, and Financ
- ing Authority Meeting
-DTSTART;TZID=America/Los_Angeles:20270928T170000
-DTEND;TZID=America/Los_Angeles:20270928T220000
-DTSTAMP;TZID=America/Los_Angeles:20240726T095807
-UID:860
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=860
-LAST-MODIFIED;TZID=America/Los_Angeles:20240726T095807
-LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Truckee Town Council\, Redevelopment Successor Agency\, and Financ
- ing Authority Meeting
-DTSTART;TZID=America/Los_Angeles:20270824T170000
-DTEND;TZID=America/Los_Angeles:20270824T220000
-DTSTAMP;TZID=America/Los_Angeles:20240726T095807
-UID:859
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=859
-LAST-MODIFIED;TZID=America/Los_Angeles:20240726T095807
-LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Truckee Town Council\, Redevelopment Successor Agency\, and Financ
- ing Authority Meeting
-DTSTART;TZID=America/Los_Angeles:20270727T170000
-DTEND;TZID=America/Los_Angeles:20270727T220000
-DTSTAMP;TZID=America/Los_Angeles:20240726T095807
-UID:858
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=858
-LAST-MODIFIED;TZID=America/Los_Angeles:20240726T095807
-LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Truckee Town Council\, Redevelopment Successor Agency\, and Financ
- ing Authority Meeting
-DTSTART;TZID=America/Los_Angeles:20270622T170000
-DTEND;TZID=America/Los_Angeles:20270622T220000
-DTSTAMP;TZID=America/Los_Angeles:20240726T095807
-UID:857
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=857
-LAST-MODIFIED;TZID=America/Los_Angeles:20240726T095807
-LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Truckee Town Council\, Redevelopment Successor Agency\, and Financ
- ing Authority Meeting
-DTSTART;TZID=America/Los_Angeles:20270525T170000
-DTEND;TZID=America/Los_Angeles:20270525T220000
-DTSTAMP;TZID=America/Los_Angeles:20240726T095807
-UID:856
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=856
-LAST-MODIFIED;TZID=America/Los_Angeles:20240726T095807
-LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Truckee Town Council\, Redevelopment Successor Agency\, and Financ
- ing Authority Meeting
-DTSTART;TZID=America/Los_Angeles:20270427T170000
-DTEND;TZID=America/Los_Angeles:20270427T220000
-DTSTAMP;TZID=America/Los_Angeles:20240726T095807
-UID:855
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=855
-LAST-MODIFIED;TZID=America/Los_Angeles:20240726T095807
-LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Truckee Town Council\, Redevelopment Successor Agency\, and Financ
- ing Authority Meeting
-DTSTART;TZID=America/Los_Angeles:20270323T170000
-DTEND;TZID=America/Los_Angeles:20270323T220000
-DTSTAMP;TZID=America/Los_Angeles:20240726T095807
-UID:854
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=854
-LAST-MODIFIED;TZID=America/Los_Angeles:20240726T095807
-LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Truckee Town Council\, Redevelopment Successor Agency\, and Financ
- ing Authority Meeting
-DTSTART;TZID=America/Los_Angeles:20270223T170000
-DTEND;TZID=America/Los_Angeles:20270223T220000
-DTSTAMP;TZID=America/Los_Angeles:20240726T095807
-UID:853
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=853
-LAST-MODIFIED;TZID=America/Los_Angeles:20240726T095807
-LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Truckee Town Council\, Redevelopment Successor Agency\, and Financ
- ing Authority Meeting
-DTSTART;TZID=America/Los_Angeles:20270126T170000
-DTEND;TZID=America/Los_Angeles:20270126T220000
-DTSTAMP;TZID=America/Los_Angeles:20240726T095807
-UID:852
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=852
-LAST-MODIFIED;TZID=America/Los_Angeles:20240726T095807
-LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Truckee Town Council\, Redevelopment Successor Agency\, and Financ
- ing Authority Meeting
-DTSTART;TZID=America/Los_Angeles:20261222T170000
-DTEND;TZID=America/Los_Angeles:20261222T220000
-DTSTAMP;TZID=America/Los_Angeles:20240726T095807
-UID:851
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=851
-LAST-MODIFIED;TZID=America/Los_Angeles:20240726T095807
-LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Truckee Town Council\, Redevelopment Successor Agency\, and Financ
- ing Authority Meeting
-DTSTART;TZID=America/Los_Angeles:20261124T170000
-DTEND;TZID=America/Los_Angeles:20261124T220000
-DTSTAMP;TZID=America/Los_Angeles:20240726T095807
-UID:850
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=850
-LAST-MODIFIED;TZID=America/Los_Angeles:20240726T095807
-LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Truckee Town Council\, Redevelopment Successor Agency\, and Financ
- ing Authority Meeting
-DTSTART;TZID=America/Los_Angeles:20261027T170000
-DTEND;TZID=America/Los_Angeles:20261027T220000
-DTSTAMP;TZID=America/Los_Angeles:20240726T095807
-UID:849
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=849
-LAST-MODIFIED;TZID=America/Los_Angeles:20240726T095807
-LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Truckee Town Council\, Redevelopment Successor Agency\, and Financ
- ing Authority Meeting
-DTSTART;TZID=America/Los_Angeles:20260922T170000
-DTEND;TZID=America/Los_Angeles:20260922T220000
-DTSTAMP;TZID=America/Los_Angeles:20240726T095807
-UID:848
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=848
-LAST-MODIFIED;TZID=America/Los_Angeles:20240726T095807
-LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Truckee Town Council\, Redevelopment Successor Agency\, and Financ
- ing Authority Meeting
-DTSTART;TZID=America/Los_Angeles:20260825T170000
-DTEND;TZID=America/Los_Angeles:20260825T220000
-DTSTAMP;TZID=America/Los_Angeles:20240726T095807
-UID:847
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=847
-LAST-MODIFIED;TZID=America/Los_Angeles:20240726T095807
-LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Truckee Town Council\, Redevelopment Successor Agency\, and Financ
- ing Authority Meeting
-DTSTART;TZID=America/Los_Angeles:20260728T170000
-DTEND;TZID=America/Los_Angeles:20260728T220000
-DTSTAMP;TZID=America/Los_Angeles:20240726T095807
-UID:846
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=846
-LAST-MODIFIED;TZID=America/Los_Angeles:20240726T095807
-LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Truckee Town Council\, Redevelopment Successor Agency\, and Financ
- ing Authority Meeting
-DTSTART;TZID=America/Los_Angeles:20260623T170000
-DTEND;TZID=America/Los_Angeles:20260623T220000
-DTSTAMP;TZID=America/Los_Angeles:20240726T095807
-UID:845
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=845
-LAST-MODIFIED;TZID=America/Los_Angeles:20240726T095807
-LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Truckee Town Council\, Redevelopment Successor Agency\, and Financ
- ing Authority Meeting
-DTSTART;TZID=America/Los_Angeles:20260526T170000
-DTEND;TZID=America/Los_Angeles:20260526T220000
-DTSTAMP;TZID=America/Los_Angeles:20240726T095807
-UID:844
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=844
-LAST-MODIFIED;TZID=America/Los_Angeles:20240726T095807
-LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Truckee Town Council\, Redevelopment Successor Agency\, and Financ
- ing Authority Meeting
-DTSTART;TZID=America/Los_Angeles:20260428T170000
-DTEND;TZID=America/Los_Angeles:20260428T220000
-DTSTAMP;TZID=America/Los_Angeles:20240726T095807
-UID:843
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=843
-LAST-MODIFIED;TZID=America/Los_Angeles:20240726T095807
-LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Truckee Town Council\, Redevelopment Successor Agency\, and Financ
- ing Authority Meeting
-DTSTART;TZID=America/Los_Angeles:20260324T170000
-DTEND;TZID=America/Los_Angeles:20260324T220000
-DTSTAMP;TZID=America/Los_Angeles:20240726T095807
-UID:842
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=842
-LAST-MODIFIED;TZID=America/Los_Angeles:20240726T095807
-LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Truckee Town Council\, Redevelopment Successor Agency\, and Financ
- ing Authority Meeting
-DTSTART;TZID=America/Los_Angeles:20260224T170000
-DTEND;TZID=America/Los_Angeles:20260224T220000
-DTSTAMP;TZID=America/Los_Angeles:20240726T095807
-UID:841
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=841
-LAST-MODIFIED;TZID=America/Los_Angeles:20240726T095807
-LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Truckee Town Council\, Redevelopment Successor Agency\, and Financ
- ing Authority Meeting
-DTSTART;TZID=America/Los_Angeles:20260127T170000
-DTEND;TZID=America/Los_Angeles:20260127T220000
-DTSTAMP;TZID=America/Los_Angeles:20240726T095807
-UID:840
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=840
-LAST-MODIFIED;TZID=America/Los_Angeles:20240726T095807
-LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Canceled: Truckee Town Council\, Redevelopment Successor Agency\, 
- and Financing Authority Meeting
-DTSTART;TZID=America/Los_Angeles:20251223T170000
-DTEND;TZID=America/Los_Angeles:20251223T220000
-DTSTAMP;TZID=America/Los_Angeles:20251125T121746
-UID:839
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=839
-LAST-MODIFIED;TZID=America/Los_Angeles:20251125T121746
-LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Truckee Home Access Program Buyer Workshop
 DTSTART;TZID=America/Los_Angeles:20260601T180000
 DTEND;TZID=America/Los_Angeles:20260601T190000
@@ -442,6 +39,84 @@ DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1618
 LAST-MODIFIED;TZID=America/Los_Angeles:20250416T104015
 LOCATION: -
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=44
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Town Hall & Public Works Holiday Office Closure
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20251229
+DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260102
+DTSTAMP;TZID=America/Los_Angeles:20251215T085846
+UID:1761
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1761
+LAST-MODIFIED;TZID=America/Los_Angeles:20251215T085846
+LOCATION:<h2 class="subhead1" data-pasted="true"><br></h2><p><br></p><p>&n
+ bsp\;</p><p><br></p> -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=44
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Town Hall & Public Works Holiday Office Closure
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20251222
+DTEND;TZID=America/Los_Angeles;VALUE=DATE:20251226
+DTSTAMP;TZID=America/Los_Angeles:20251215T085747
+UID:1760
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1760
+LAST-MODIFIED;TZID=America/Los_Angeles:20251215T085747
+LOCATION:<h2 class="subhead1" data-pasted="true"><br></h2><p><br></p><p>&n
+ bsp\;</p><p><br></p> -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=44
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Town Hall & Public Works Holiday Office Closure
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20251229
+DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260102
+DTSTAMP;TZID=America/Los_Angeles:20251215T085846
+UID:1761
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1761
+LAST-MODIFIED;TZID=America/Los_Angeles:20251215T085846
+LOCATION:<h2 class="subhead1" data-pasted="true"><br></h2><p><br></p><p>&n
+ bsp\;</p><p><br></p> -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Town Hall & Public Works Holiday Office Closure
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20251222
+DTEND;TZID=America/Los_Angeles;VALUE=DATE:20251226
+DTSTAMP;TZID=America/Los_Angeles:20251215T085747
+UID:1760
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1760
+LAST-MODIFIED;TZID=America/Los_Angeles:20251215T085747
+LOCATION:<h2 class="subhead1" data-pasted="true"><br></h2><p><br></p><p>&n
+ bsp\;</p><p><br></p> -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Town Hall & Public Works Holiday Office Closure
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20251229
+DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260102
+DTSTAMP;TZID=America/Los_Angeles:20251215T085846
+UID:1761
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1761
+LAST-MODIFIED;TZID=America/Los_Angeles:20251215T085846
+LOCATION:<h2 class="subhead1" data-pasted="true"><br></h2><p><br></p><p>&n
+ bsp\;</p><p><br></p> -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=29
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Town Hall & Public Works Holiday Office Closure
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20251222
+DTEND;TZID=America/Los_Angeles;VALUE=DATE:20251226
+DTSTAMP;TZID=America/Los_Angeles:20251215T085747
+UID:1760
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1760
+LAST-MODIFIED;TZID=America/Los_Angeles:20251215T085747
+LOCATION:<h2 class="subhead1" data-pasted="true"><br></h2><p><br></p><p>&n
+ bsp\;</p><p><br></p> -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=29
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Public Art Commission of Truckee Meeting
@@ -756,6 +431,58 @@ LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=24
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Town Hall & Public Works Holiday Office Closure
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20251229
+DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260102
+DTSTAMP;TZID=America/Los_Angeles:20251215T085846
+UID:1761
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1761
+LAST-MODIFIED;TZID=America/Los_Angeles:20251215T085846
+LOCATION:<h2 class="subhead1" data-pasted="true"><br></h2><p><br></p><p>&n
+ bsp\;</p><p><br></p> -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Town Hall & Public Works Holiday Office Closure
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20251222
+DTEND;TZID=America/Los_Angeles;VALUE=DATE:20251226
+DTSTAMP;TZID=America/Los_Angeles:20251215T085747
+UID:1760
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1760
+LAST-MODIFIED;TZID=America/Los_Angeles:20251215T085747
+LOCATION:<h2 class="subhead1" data-pasted="true"><br></h2><p><br></p><p>&n
+ bsp\;</p><p><br></p> -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Town Hall & Public Works Holiday Office Closure
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20251229
+DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260102
+DTSTAMP;TZID=America/Los_Angeles:20251215T085846
+UID:1761
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1761
+LAST-MODIFIED;TZID=America/Los_Angeles:20251215T085846
+LOCATION:<h2 class="subhead1" data-pasted="true"><br></h2><p><br></p><p>&n
+ bsp\;</p><p><br></p> -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Town Hall & Public Works Holiday Office Closure
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20251222
+DTEND;TZID=America/Los_Angeles;VALUE=DATE:20251226
+DTSTAMP;TZID=America/Los_Angeles:20251215T085747
+UID:1760
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1760
+LAST-MODIFIED;TZID=America/Los_Angeles:20251215T085747
+LOCATION:<h2 class="subhead1" data-pasted="true"><br></h2><p><br></p><p>&n
+ bsp\;</p><p><br></p> -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=30
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Truckee Home Access Program Buyer Workshop
 DTSTART;TZID=America/Los_Angeles:20260601T180000
 DTEND;TZID=America/Los_Angeles:20260601T190000
@@ -790,6 +517,136 @@ DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1618
 LAST-MODIFIED;TZID=America/Los_Angeles:20250416T104015
 LOCATION: -
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Town Hall & Public Works Holiday Office Closure
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20251229
+DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260102
+DTSTAMP;TZID=America/Los_Angeles:20251215T085846
+UID:1761
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1761
+LAST-MODIFIED;TZID=America/Los_Angeles:20251215T085846
+LOCATION:<h2 class="subhead1" data-pasted="true"><br></h2><p><br></p><p>&n
+ bsp\;</p><p><br></p> -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Town Hall & Public Works Holiday Office Closure
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20251222
+DTEND;TZID=America/Los_Angeles;VALUE=DATE:20251226
+DTSTAMP;TZID=America/Los_Angeles:20251215T085747
+UID:1760
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1760
+LAST-MODIFIED;TZID=America/Los_Angeles:20251215T085747
+LOCATION:<h2 class="subhead1" data-pasted="true"><br></h2><p><br></p><p>&n
+ bsp\;</p><p><br></p> -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Town Hall & Public Works Holiday Office Closure
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20251229
+DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260102
+DTSTAMP;TZID=America/Los_Angeles:20251215T085846
+UID:1761
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1761
+LAST-MODIFIED;TZID=America/Los_Angeles:20251215T085846
+LOCATION:<h2 class="subhead1" data-pasted="true"><br></h2><p><br></p><p>&n
+ bsp\;</p><p><br></p> -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=32
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Town Hall & Public Works Holiday Office Closure
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20251222
+DTEND;TZID=America/Los_Angeles;VALUE=DATE:20251226
+DTSTAMP;TZID=America/Los_Angeles:20251215T085747
+UID:1760
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1760
+LAST-MODIFIED;TZID=America/Los_Angeles:20251215T085747
+LOCATION:<h2 class="subhead1" data-pasted="true"><br></h2><p><br></p><p>&n
+ bsp\;</p><p><br></p> -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=32
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Town Hall & Public Works Holiday Office Closure
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20251229
+DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260102
+DTSTAMP;TZID=America/Los_Angeles:20251215T085846
+UID:1761
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1761
+LAST-MODIFIED;TZID=America/Los_Angeles:20251215T085846
+LOCATION:<h2 class="subhead1" data-pasted="true"><br></h2><p><br></p><p>&n
+ bsp\;</p><p><br></p> -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=28
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Town Hall & Public Works Holiday Office Closure
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20251222
+DTEND;TZID=America/Los_Angeles;VALUE=DATE:20251226
+DTSTAMP;TZID=America/Los_Angeles:20251215T085747
+UID:1760
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1760
+LAST-MODIFIED;TZID=America/Los_Angeles:20251215T085747
+LOCATION:<h2 class="subhead1" data-pasted="true"><br></h2><p><br></p><p>&n
+ bsp\;</p><p><br></p> -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=28
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Town Hall & Public Works Holiday Office Closure
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20251229
+DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260102
+DTSTAMP;TZID=America/Los_Angeles:20251215T085846
+UID:1761
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1761
+LAST-MODIFIED;TZID=America/Los_Angeles:20251215T085846
+LOCATION:<h2 class="subhead1" data-pasted="true"><br></h2><p><br></p><p>&n
+ bsp\;</p><p><br></p> -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Town Hall & Public Works Holiday Office Closure
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20251222
+DTEND;TZID=America/Los_Angeles;VALUE=DATE:20251226
+DTSTAMP;TZID=America/Los_Angeles:20251215T085747
+UID:1760
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1760
+LAST-MODIFIED;TZID=America/Los_Angeles:20251215T085747
+LOCATION:<h2 class="subhead1" data-pasted="true"><br></h2><p><br></p><p>&n
+ bsp\;</p><p><br></p> -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Town Hall & Public Works Holiday Office Closure
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20251229
+DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260102
+DTSTAMP;TZID=America/Los_Angeles:20251215T085846
+UID:1761
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1761
+LAST-MODIFIED;TZID=America/Los_Angeles:20251215T085846
+LOCATION:<h2 class="subhead1" data-pasted="true"><br></h2><p><br></p><p>&n
+ bsp\;</p><p><br></p> -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=47
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Town Hall & Public Works Holiday Office Closure
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20251222
+DTEND;TZID=America/Los_Angeles;VALUE=DATE:20251226
+DTSTAMP;TZID=America/Los_Angeles:20251215T085747
+UID:1760
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1760
+LAST-MODIFIED;TZID=America/Los_Angeles:20251215T085747
+LOCATION:<h2 class="subhead1" data-pasted="true"><br></h2><p><br></p><p>&n
+ bsp\;</p><p><br></p> -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=47
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Christmas Eve
@@ -4473,14 +4330,14 @@ LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Zoning Administrator Meeting
+SUMMARY:Canceled: Zoning Administrator Meeting
 DTSTART;TZID=America/Los_Angeles:20260107T130000
 DTEND;TZID=America/Los_Angeles:20260107T140000
-DTSTAMP;TZID=America/Los_Angeles:20240327T141432
+DTSTAMP;TZID=America/Los_Angeles:20251218T111805
 UID:1100
 SEQUENCE:0
 DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1100
-LAST-MODIFIED;TZID=America/Los_Angeles:20240327T141432
+LAST-MODIFIED;TZID=America/Los_Angeles:20251218T111805
 LOCATION:<p>Prosser Room at Town Hall</p> - 10183 Truckee Airport Rd  Truc
  kee Ca 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
@@ -4507,6 +4364,19 @@ SEQUENCE:0
 DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=631
 LAST-MODIFIED;TZID=America/Los_Angeles:20250929T103729
 LOCATION: -
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Town Hall & Public Works Holiday Office Closure
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20251229
+DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260102
+DTSTAMP;TZID=America/Los_Angeles:20251215T085846
+UID:1761
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1761
+LAST-MODIFIED;TZID=America/Los_Angeles:20251215T085846
+LOCATION:<h2 class="subhead1" data-pasted="true"><br></h2><p><br></p><p>&n
+ bsp\;</p><p><br></p> -   Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
@@ -4560,109 +4430,16 @@ LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Canceled: Zoning Administrator Meeting
-DTSTART;TZID=America/Los_Angeles:20251217T130000
-DTEND;TZID=America/Los_Angeles:20251217T140000
-DTSTAMP;TZID=America/Los_Angeles:20251210T110518
-UID:1205
+SUMMARY:Town Hall & Public Works Holiday Office Closure
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20251222
+DTEND;TZID=America/Los_Angeles;VALUE=DATE:20251226
+DTSTAMP;TZID=America/Los_Angeles:20251215T085747
+UID:1760
 SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1205
-LAST-MODIFIED;TZID=America/Los_Angeles:20251210T110518
-LOCATION:<p>The Prosser Room at Truckee Town Hall</p> - 10183 Truckee Airp
- ort Road  Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Truckee Library Joint Powers Authority Meeting
-DTSTART;TZID=America/Los_Angeles:20251217T130000
-DTEND;TZID=America/Los_Angeles:20251217T150000
-DTSTAMP;TZID=America/Los_Angeles:20251212T145434
-UID:1759
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1759
-LAST-MODIFIED;TZID=America/Los_Angeles:20251212T145434
-LOCATION:<p><u style="box-sizing: initial\; color: rgb(51\, 51\, 51)\; fon
- t-family: Arial\; font-size: 15.2px\; font-style: normal\; font-variant-li
- gatures: normal\; font-variant-caps: normal\; font-weight: 400\; letter-sp
- acing: normal\; orphans: 2\; text-align: start\; text-indent: 0px\; text-t
- ransform: none\; widows: 2\; word-spacing: 0px\; -webkit-text-stroke-width
- : 0px\; white-space: normal\; background-color: rgb(255\, 255\, 255)\;" da
- ta-pasted="true">Additional Location:</u><br style="box-sizing: initial\; 
- color: rgb(51\, 51\, 51)\; font-family: Arial\; font-size: 15.2px\; font-s
- tyle: normal\; font-variant-ligatures: normal\; font-variant-caps: normal\
- ; font-weight: 400\; letter-spacing: normal\; orphans: 2\; text-align: sta
- rt\; text-indent: 0px\; text-transform: none\; widows: 2\; word-spacing: 0
- px\; -webkit-text-stroke-width: 0px\; white-space: normal\; background-col
- or: rgb(255\, 255\, 255)\; text-decoration-thickness: initial\; text-decor
- ation-style: initial\; text-decoration-color: initial\;"><span style="colo
- r: rgb(51\, 51\, 51)\; font-family: Arial\; font-size: 15.2px\; font-style
- : normal\; font-variant-ligatures: normal\; font-variant-caps: normal\; fo
- nt-weight: 400\; letter-spacing: normal\; orphans: 2\; text-align: start\;
-  text-indent: 0px\; text-transform: none\; widows: 2\; word-spacing: 0px\;
-  -webkit-text-stroke-width: 0px\; white-space: normal\; background-color: 
- rgb(255\, 255\, 255)\; text-decoration-thickness: initial\; text-decoratio
- n-style: initial\; text-decoration-color: initial\; display: inline !impor
- tant\; float: none\;">Nevada County - Eric Rood Government Center&nbsp\;</
- span><br style="box-sizing: initial\; color: rgb(51\, 51\, 51)\; font-fami
- ly: Arial\; font-size: 15.2px\; font-style: normal\; font-variant-ligature
- s: normal\; font-variant-caps: normal\; font-weight: 400\; letter-spacing:
-  normal\; orphans: 2\; text-align: start\; text-indent: 0px\; text-transfo
- rm: none\; widows: 2\; word-spacing: 0px\; -webkit-text-stroke-width: 0px\
- ; white-space: normal\; background-color: rgb(255\, 255\, 255)\; text-deco
- ration-thickness: initial\; text-decoration-style: initial\; text-decorati
- on-color: initial\;"><span style="color: rgb(51\, 51\, 51)\; font-family: 
- Arial\; font-size: 15.2px\; font-style: normal\; font-variant-ligatures: n
- ormal\; font-variant-caps: normal\; font-weight: 400\; letter-spacing: nor
- mal\; orphans: 2\; text-align: start\; text-indent: 0px\; text-transform: 
- none\; widows: 2\; word-spacing: 0px\; -webkit-text-stroke-width: 0px\; wh
- ite-space: normal\; background-color: rgb(255\, 255\, 255)\; text-decorati
- on-thickness: initial\; text-decoration-style: initial\; text-decoration-c
- olor: initial\; display: inline !important\; float: none\;">Northstar Conf
- erence Room&nbsp\;</span><br style="box-sizing: initial\; color: rgb(51\, 
- 51\, 51)\; font-family: Arial\; font-size: 15.2px\; font-style: normal\; f
- ont-variant-ligatures: normal\; font-variant-caps: normal\; font-weight: 4
- 00\; letter-spacing: normal\; orphans: 2\; text-align: start\; text-indent
- : 0px\; text-transform: none\; widows: 2\; word-spacing: 0px\; -webkit-tex
- t-stroke-width: 0px\; white-space: normal\; background-color: rgb(255\, 25
- 5\, 255)\; text-decoration-thickness: initial\; text-decoration-style: ini
- tial\; text-decoration-color: initial\;"><span style="color: rgb(51\, 51\,
-  51)\; font-family: Arial\; font-size: 15.2px\; font-style: normal\; font-
- variant-ligatures: normal\; font-variant-caps: normal\; font-weight: 400\;
-  letter-spacing: normal\; orphans: 2\; text-align: start\; text-indent: 0p
- x\; text-transform: none\; widows: 2\; word-spacing: 0px\; -webkit-text-st
- roke-width: 0px\; white-space: normal\; background-color: rgb(255\, 255\, 
- 255)\; text-decoration-thickness: initial\; text-decoration-style: initial
- \; text-decoration-color: initial\; display: inline !important\; float: no
- ne\;">950 Maidu Avenue</span><br style="box-sizing: initial\; color: rgb(5
- 1\, 51\, 51)\; font-family: Arial\; font-size: 15.2px\; font-style: normal
- \; font-variant-ligatures: normal\; font-variant-caps: normal\; font-weigh
- t: 400\; letter-spacing: normal\; orphans: 2\; text-align: start\; text-in
- dent: 0px\; text-transform: none\; widows: 2\; word-spacing: 0px\; -webkit
- -text-stroke-width: 0px\; white-space: normal\; background-color: rgb(255\
- , 255\, 255)\; text-decoration-thickness: initial\; text-decoration-style:
-  initial\; text-decoration-color: initial\;"><span style="color: rgb(51\, 
- 51\, 51)\; font-family: Arial\; font-size: 15.2px\; font-style: normal\; f
- ont-variant-ligatures: normal\; font-variant-caps: normal\; font-weight: 4
- 00\; letter-spacing: normal\; orphans: 2\; text-align: start\; text-indent
- : 0px\; text-transform: none\; widows: 2\; word-spacing: 0px\; -webkit-tex
- t-stroke-width: 0px\; white-space: normal\; background-color: rgb(255\, 25
- 5\, 255)\; text-decoration-thickness: initial\; text-decoration-style: ini
- tial\; text-decoration-color: initial\; display: inline !important\; float
- : none\;">Nevada City\, CA</span></p> - 10183 Truckee Airport Road  Trucke
- e CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Canceled: Planning Commission Meeting
-DTSTART;TZID=America/Los_Angeles:20251216T170000
-DTEND;TZID=America/Los_Angeles:20251216T220000
-DTSTAMP;TZID=America/Los_Angeles:20251202T094108
-UID:1153
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1153
-LAST-MODIFIED;TZID=America/Los_Angeles:20251202T094108
-LOCATION:<p>The Council Chambers at Truckee Town Hall.&nbsp\;</p> - 10183 
- Truckee Airport Road  Truckee CA 96161
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1760
+LAST-MODIFIED;TZID=America/Los_Angeles:20251215T085747
+LOCATION:<h2 class="subhead1" data-pasted="true"><br></h2><p><br></p><p>&n
+ bsp\;</p><p><br></p> -   Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
@@ -6547,16 +6324,29 @@ LOCATION:<p id="isPasted">&nbsp\;The Council Chambers at Truckee Town Hall
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Zoning Administrator Meeting
+SUMMARY:Canceled: Zoning Administrator Meeting
 DTSTART;TZID=America/Los_Angeles:20260107T130000
 DTEND;TZID=America/Los_Angeles:20260107T140000
-DTSTAMP;TZID=America/Los_Angeles:20240327T141432
+DTSTAMP;TZID=America/Los_Angeles:20251218T111805
 UID:1100
 SEQUENCE:0
 DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1100
-LAST-MODIFIED;TZID=America/Los_Angeles:20240327T141432
+LAST-MODIFIED;TZID=America/Los_Angeles:20251218T111805
 LOCATION:<p>Prosser Room at Town Hall</p> - 10183 Truckee Airport Rd  Truc
  kee Ca 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Town Hall & Public Works Holiday Office Closure
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20251229
+DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260102
+DTSTAMP;TZID=America/Los_Angeles:20251215T085846
+UID:1761
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1761
+LAST-MODIFIED;TZID=America/Los_Angeles:20251215T085846
+LOCATION:<h2 class="subhead1" data-pasted="true"><br></h2><p><br></p><p>&n
+ bsp\;</p><p><br></p> -   Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34
 END:VEVENT
 BEGIN:VEVENT
@@ -6573,30 +6363,43 @@ LOCATION:<p>The Council Chambers at Truckee Town Hall&nbsp\;</p> - 10183 T
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Canceled: Zoning Administrator Meeting
-DTSTART;TZID=America/Los_Angeles:20251217T130000
-DTEND;TZID=America/Los_Angeles:20251217T140000
-DTSTAMP;TZID=America/Los_Angeles:20251210T110518
-UID:1205
+SUMMARY:Town Hall & Public Works Holiday Office Closure
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20251222
+DTEND;TZID=America/Los_Angeles;VALUE=DATE:20251226
+DTSTAMP;TZID=America/Los_Angeles:20251215T085747
+UID:1760
 SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1205
-LAST-MODIFIED;TZID=America/Los_Angeles:20251210T110518
-LOCATION:<p>The Prosser Room at Truckee Town Hall</p> - 10183 Truckee Airp
- ort Road  Truckee CA 96161
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1760
+LAST-MODIFIED;TZID=America/Los_Angeles:20251215T085747
+LOCATION:<h2 class="subhead1" data-pasted="true"><br></h2><p><br></p><p>&n
+ bsp\;</p><p><br></p> -   Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Canceled: Planning Commission Meeting
-DTSTART;TZID=America/Los_Angeles:20251216T170000
-DTEND;TZID=America/Los_Angeles:20251216T220000
-DTSTAMP;TZID=America/Los_Angeles:20251202T094108
-UID:1153
+SUMMARY:Town Hall & Public Works Holiday Office Closure
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20251229
+DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260102
+DTSTAMP;TZID=America/Los_Angeles:20251215T085846
+UID:1761
 SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1153
-LAST-MODIFIED;TZID=America/Los_Angeles:20251202T094108
-LOCATION:<p>The Council Chambers at Truckee Town Hall.&nbsp\;</p> - 10183 
- Truckee Airport Road  Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1761
+LAST-MODIFIED;TZID=America/Los_Angeles:20251215T085846
+LOCATION:<h2 class="subhead1" data-pasted="true"><br></h2><p><br></p><p>&n
+ bsp\;</p><p><br></p> -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Town Hall & Public Works Holiday Office Closure
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20251222
+DTEND;TZID=America/Los_Angeles;VALUE=DATE:20251226
+DTSTAMP;TZID=America/Los_Angeles:20251215T085747
+UID:1760
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1760
+LAST-MODIFIED;TZID=America/Los_Angeles:20251215T085747
+LOCATION:<h2 class="subhead1" data-pasted="true"><br></h2><p><br></p><p>&n
+ bsp\;</p><p><br></p> -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Public Art Commission of Truckee Meeting
@@ -6909,6 +6712,188 @@ DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=687
 LAST-MODIFIED;TZID=America/Los_Angeles:20250325T100524
 LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Town Hall & Public Works Holiday Office Closure
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20251229
+DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260102
+DTSTAMP;TZID=America/Los_Angeles:20251215T085846
+UID:1761
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1761
+LAST-MODIFIED;TZID=America/Los_Angeles:20251215T085846
+LOCATION:<h2 class="subhead1" data-pasted="true"><br></h2><p><br></p><p>&n
+ bsp\;</p><p><br></p> -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Town Hall & Public Works Holiday Office Closure
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20251222
+DTEND;TZID=America/Los_Angeles;VALUE=DATE:20251226
+DTSTAMP;TZID=America/Los_Angeles:20251215T085747
+UID:1760
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1760
+LAST-MODIFIED;TZID=America/Los_Angeles:20251215T085747
+LOCATION:<h2 class="subhead1" data-pasted="true"><br></h2><p><br></p><p>&n
+ bsp\;</p><p><br></p> -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Town Hall & Public Works Holiday Office Closure
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20251229
+DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260102
+DTSTAMP;TZID=America/Los_Angeles:20251215T085846
+UID:1761
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1761
+LAST-MODIFIED;TZID=America/Los_Angeles:20251215T085846
+LOCATION:<h2 class="subhead1" data-pasted="true"><br></h2><p><br></p><p>&n
+ bsp\;</p><p><br></p> -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=37
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Town Hall & Public Works Holiday Office Closure
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20251222
+DTEND;TZID=America/Los_Angeles;VALUE=DATE:20251226
+DTSTAMP;TZID=America/Los_Angeles:20251215T085747
+UID:1760
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1760
+LAST-MODIFIED;TZID=America/Los_Angeles:20251215T085747
+LOCATION:<h2 class="subhead1" data-pasted="true"><br></h2><p><br></p><p>&n
+ bsp\;</p><p><br></p> -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=37
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Town Hall & Public Works Holiday Office Closure
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20251229
+DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260102
+DTSTAMP;TZID=America/Los_Angeles:20251215T085846
+UID:1761
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1761
+LAST-MODIFIED;TZID=America/Los_Angeles:20251215T085846
+LOCATION:<h2 class="subhead1" data-pasted="true"><br></h2><p><br></p><p>&n
+ bsp\;</p><p><br></p> -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Town Hall & Public Works Holiday Office Closure
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20251222
+DTEND;TZID=America/Los_Angeles;VALUE=DATE:20251226
+DTSTAMP;TZID=America/Los_Angeles:20251215T085747
+UID:1760
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1760
+LAST-MODIFIED;TZID=America/Los_Angeles:20251215T085747
+LOCATION:<h2 class="subhead1" data-pasted="true"><br></h2><p><br></p><p>&n
+ bsp\;</p><p><br></p> -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Town Hall & Public Works Holiday Office Closure
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20251229
+DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260102
+DTSTAMP;TZID=America/Los_Angeles:20251215T085846
+UID:1761
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1761
+LAST-MODIFIED;TZID=America/Los_Angeles:20251215T085846
+LOCATION:<h2 class="subhead1" data-pasted="true"><br></h2><p><br></p><p>&n
+ bsp\;</p><p><br></p> -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=46
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Town Hall & Public Works Holiday Office Closure
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20251222
+DTEND;TZID=America/Los_Angeles;VALUE=DATE:20251226
+DTSTAMP;TZID=America/Los_Angeles:20251215T085747
+UID:1760
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1760
+LAST-MODIFIED;TZID=America/Los_Angeles:20251215T085747
+LOCATION:<h2 class="subhead1" data-pasted="true"><br></h2><p><br></p><p>&n
+ bsp\;</p><p><br></p> -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=46
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Town Hall & Public Works Holiday Office Closure
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20251229
+DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260102
+DTSTAMP;TZID=America/Los_Angeles:20251215T085846
+UID:1761
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1761
+LAST-MODIFIED;TZID=America/Los_Angeles:20251215T085846
+LOCATION:<h2 class="subhead1" data-pasted="true"><br></h2><p><br></p><p>&n
+ bsp\;</p><p><br></p> -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=39
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Town Hall & Public Works Holiday Office Closure
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20251222
+DTEND;TZID=America/Los_Angeles;VALUE=DATE:20251226
+DTSTAMP;TZID=America/Los_Angeles:20251215T085747
+UID:1760
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1760
+LAST-MODIFIED;TZID=America/Los_Angeles:20251215T085747
+LOCATION:<h2 class="subhead1" data-pasted="true"><br></h2><p><br></p><p>&n
+ bsp\;</p><p><br></p> -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=39
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Town Hall & Public Works Holiday Office Closure
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20251229
+DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260102
+DTSTAMP;TZID=America/Los_Angeles:20251215T085846
+UID:1761
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1761
+LAST-MODIFIED;TZID=America/Los_Angeles:20251215T085846
+LOCATION:<h2 class="subhead1" data-pasted="true"><br></h2><p><br></p><p>&n
+ bsp\;</p><p><br></p> -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Town Hall & Public Works Holiday Office Closure
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20251222
+DTEND;TZID=America/Los_Angeles;VALUE=DATE:20251226
+DTSTAMP;TZID=America/Los_Angeles:20251215T085747
+UID:1760
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1760
+LAST-MODIFIED;TZID=America/Los_Angeles:20251215T085747
+LOCATION:<h2 class="subhead1" data-pasted="true"><br></h2><p><br></p><p>&n
+ bsp\;</p><p><br></p> -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Town Hall & Public Works Holiday Office Closure
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20251229
+DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260102
+DTSTAMP;TZID=America/Los_Angeles:20251215T085846
+UID:1761
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1761
+LAST-MODIFIED;TZID=America/Los_Angeles:20251215T085846
+LOCATION:<h2 class="subhead1" data-pasted="true"><br></h2><p><br></p><p>&n
+ bsp\;</p><p><br></p> -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=41
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Town Hall & Public Works Holiday Office Closure
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20251222
+DTEND;TZID=America/Los_Angeles;VALUE=DATE:20251226
+DTSTAMP;TZID=America/Los_Angeles:20251215T085747
+UID:1760
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1760
+LAST-MODIFIED;TZID=America/Los_Angeles:20251215T085747
+LOCATION:<h2 class="subhead1" data-pasted="true"><br></h2><p><br></p><p>&n
+ bsp\;</p><p><br></p> -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=41
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Truckee Town Council\, Redevelopment Successor Agency\, and Financ
@@ -7691,6 +7676,19 @@ LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=45
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Town Hall & Public Works Holiday Office Closure
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20251229
+DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260102
+DTSTAMP;TZID=America/Los_Angeles:20251215T085846
+UID:1761
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1761
+LAST-MODIFIED;TZID=America/Los_Angeles:20251215T085846
+LOCATION:<h2 class="subhead1" data-pasted="true"><br></h2><p><br></p><p>&n
+ bsp\;</p><p><br></p> -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=45
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Canceled: Truckee Town Council\, Redevelopment Successor Agency\, 
  and Financing Authority Meeting
 DTSTART;TZID=America/Los_Angeles:20251223T170000
@@ -7702,5 +7700,44 @@ DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=839
 LAST-MODIFIED;TZID=America/Los_Angeles:20251125T121746
 LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=45
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Town Hall & Public Works Holiday Office Closure
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20251222
+DTEND;TZID=America/Los_Angeles;VALUE=DATE:20251226
+DTSTAMP;TZID=America/Los_Angeles:20251215T085747
+UID:1760
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1760
+LAST-MODIFIED;TZID=America/Los_Angeles:20251215T085747
+LOCATION:<h2 class="subhead1" data-pasted="true"><br></h2><p><br></p><p>&n
+ bsp\;</p><p><br></p> -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=45
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Town Hall & Public Works Holiday Office Closure
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20251229
+DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260102
+DTSTAMP;TZID=America/Los_Angeles:20251215T085846
+UID:1761
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1761
+LAST-MODIFIED;TZID=America/Los_Angeles:20251215T085846
+LOCATION:<h2 class="subhead1" data-pasted="true"><br></h2><p><br></p><p>&n
+ bsp\;</p><p><br></p> -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Town Hall & Public Works Holiday Office Closure
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20251222
+DTEND;TZID=America/Los_Angeles;VALUE=DATE:20251226
+DTSTAMP;TZID=America/Los_Angeles:20251215T085747
+UID:1760
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1760
+LAST-MODIFIED;TZID=America/Los_Angeles:20251215T085747
+LOCATION:<h2 class="subhead1" data-pasted="true"><br></h2><p><br></p><p>&n
+ bsp\;</p><p><br></p> -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=42
 END:VEVENT
 END:VCALENDAR
