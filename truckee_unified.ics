@@ -14,1017 +14,6 @@ SEQUENCE:0
 DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1737
 LAST-MODIFIED;TZID=America/Los_Angeles:20260120T120833
 LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Labor Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20290903T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20290904T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T120404
-UID:1731
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1731
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T120404
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Juneteenth Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20290619T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20290620T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T115940
-UID:1710
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1710
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T115940
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Memorial Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20290528T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20290529T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T115819
-UID:1706
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1706
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T115819
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Thanksgiving Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20281124T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20281125T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T120833
-UID:1736
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1736
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T120833
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Labor Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20280904T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20280905T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T120404
-UID:1730
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1730
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T120404
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Juneteenth Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20280619T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20280620T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T115940
-UID:1709
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1709
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T115940
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Memorial Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20280529T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20280530T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T115819
-UID:1705
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1705
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T115819
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:President's Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20280221T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20280222T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T121724
-UID:1539
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1539
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T121724
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Christmas Eve Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20271224T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20271225T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T121026
-UID:1680
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1680
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T121026
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Christmas Day Observed Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20271224T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20271225T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T121908
-UID:1689
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1689
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T121908
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Thanksgiving Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20271126T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20271127T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T120833
-UID:1735
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1735
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T120833
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Labor Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20270906T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20270907T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T120404
-UID:1729
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1729
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T120404
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Independence Day
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20270704T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20270705T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T121824
-UID:628
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=628
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T121824
-LOCATION: -
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Juneteenth Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20270619T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20270620T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T115940
-UID:1708
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1708
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T115940
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Memorial Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20270531T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20270601T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T115819
-UID:1704
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1704
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T115819
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:President's Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20270215T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20270216T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T121543
-UID:1538
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1538
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T121543
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Christmas Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20261225T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20261226T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T121125
-UID:637
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=637
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T121125
-LOCATION: -
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Christmas Eve Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20261224T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20261225T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T121026
-UID:1679
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1679
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T121026
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Thanksgiving Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20261127T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20261128T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T120833
-UID:1734
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1734
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T120833
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Labor Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20260907T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260908T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T120404
-UID:1728
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1728
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T120404
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Independence Day
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20260704T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260705T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T120314
-UID:627
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=627
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T120314
-LOCATION: -
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Independence Day Observance Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20260703T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260704T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T120233
-UID:1712
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1712
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T120233
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Juneteenth Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20260619T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260620T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T115940
-UID:1707
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1707
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T115940
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Memorial Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20260525T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260526T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T115819
-UID:1703
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1703
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T115819
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:President's Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20260216T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260217T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T111732
-UID:1537
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1537
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T111732
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Thanksgiving Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20291123T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20291124T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T120833
-UID:1737
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1737
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T120833
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Labor Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20290903T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20290904T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T120404
-UID:1731
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1731
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T120404
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Juneteenth Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20290619T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20290620T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T115940
-UID:1710
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1710
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T115940
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Memorial Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20290528T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20290529T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T115819
-UID:1706
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1706
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T115819
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Thanksgiving Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20281124T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20281125T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T120833
-UID:1736
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1736
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T120833
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Labor Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20280904T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20280905T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T120404
-UID:1730
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1730
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T120404
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Juneteenth Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20280619T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20280620T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T115940
-UID:1709
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1709
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T115940
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Memorial Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20280529T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20280530T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T115819
-UID:1705
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1705
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T115819
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:President's Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20280221T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20280222T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T121724
-UID:1539
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1539
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T121724
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Christmas Eve Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20271224T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20271225T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T121026
-UID:1680
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1680
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T121026
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Christmas Day Observed Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20271224T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20271225T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T121908
-UID:1689
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1689
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T121908
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Thanksgiving Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20271126T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20271127T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T120833
-UID:1735
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1735
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T120833
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Labor Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20270906T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20270907T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T120404
-UID:1729
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1729
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T120404
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Independence Day
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20270704T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20270705T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T121824
-UID:628
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=628
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T121824
-LOCATION: -
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Juneteenth Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20270619T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20270620T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T115940
-UID:1708
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1708
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T115940
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Memorial Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20270531T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20270601T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T115819
-UID:1704
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1704
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T115819
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:President's Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20270215T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20270216T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T121543
-UID:1538
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1538
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T121543
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Christmas Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20261225T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20261226T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T121125
-UID:637
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=637
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T121125
-LOCATION: -
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Christmas Eve Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20261224T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20261225T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T121026
-UID:1679
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1679
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T121026
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Thanksgiving Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20261127T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20261128T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T120833
-UID:1734
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1734
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T120833
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Labor Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20260907T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260908T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T120404
-UID:1728
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1728
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T120404
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Independence Day
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20260704T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260705T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T120314
-UID:627
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=627
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T120314
-LOCATION: -
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Independence Day Observance Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20260703T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260704T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T120233
-UID:1712
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1712
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T120233
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Juneteenth Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20260619T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260620T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T115940
-UID:1707
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1707
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T115940
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Memorial Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20260525T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260526T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T115819
-UID:1703
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1703
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T115819
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Truckee Library Joint Powers Authority Meeting
-DTSTART;TZID=America/Los_Angeles:20260218T130000
-DTEND;TZID=America/Los_Angeles:20260218T150000
-DTSTAMP;TZID=America/Los_Angeles:20260213T103053
-UID:1815
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1815
-LAST-MODIFIED;TZID=America/Los_Angeles:20260213T103053
-LOCATION:<p><u>Additional Location:</u><br>Nevada County - Eric Rood Gover
- nment Center&nbsp\;<br>Northstar Conference Room&nbsp\;<br>950 Maidu Avenu
- e<br>Nevada City\, CA</p> - 10183 Truckee Airport Road Trout Creek Room Tr
- uckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:President's Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20260216T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260217T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T111732
-UID:1537
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1537
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T111732
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Thanksgiving Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20291123T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20291124T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T120833
-UID:1737
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1737
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T120833
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=44
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Labor Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20290903T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20290904T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T120404
-UID:1731
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1731
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T120404
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=44
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Juneteenth Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20290619T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20290620T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T115940
-UID:1710
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1710
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T115940
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=44
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Memorial Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20290528T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20290529T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T115819
-UID:1706
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1706
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T115819
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=44
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Thanksgiving Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20281124T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20281125T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T120833
-UID:1736
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1736
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T120833
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=44
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Labor Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20280904T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20280905T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T120404
-UID:1730
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1730
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T120404
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=44
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Juneteenth Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20280619T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20280620T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T115940
-UID:1709
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1709
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T115940
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=44
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Memorial Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20280529T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20280530T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T115819
-UID:1705
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1705
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T115819
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=44
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:President's Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20280221T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20280222T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T121724
-UID:1539
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1539
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T121724
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=44
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Christmas Eve Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20271224T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20271225T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T121026
-UID:1680
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1680
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T121026
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=44
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Christmas Day Observed Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20271224T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20271225T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T121908
-UID:1689
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1689
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T121908
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=44
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Thanksgiving Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20271126T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20271127T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T120833
-UID:1735
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1735
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T120833
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=44
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Labor Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20270906T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20270907T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T120404
-UID:1729
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1729
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T120404
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=44
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Independence Day
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20270704T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20270705T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T121824
-UID:628
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=628
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T121824
-LOCATION: -
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=44
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Juneteenth Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20270619T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20270620T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T115940
-UID:1708
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1708
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T115940
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=44
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Memorial Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20270531T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20270601T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T115819
-UID:1704
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1704
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T115819
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=44
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:President's Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20270215T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20270216T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T121543
-UID:1538
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1538
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T121543
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=44
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Christmas Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20261225T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20261226T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T121125
-UID:637
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=637
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T121125
-LOCATION: -
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=44
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Christmas Eve Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20261224T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20261225T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T121026
-UID:1679
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1679
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T121026
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=44
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Truckee Home Access Program Buyer Workshop
-DTSTART;TZID=America/Los_Angeles:20261207T180000
-DTEND;TZID=America/Los_Angeles:20261207T190000
-DTSTAMP;TZID=America/Los_Angeles:20260212T122618
-UID:1842
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1842
-LAST-MODIFIED;TZID=America/Los_Angeles:20260212T122618
-LOCATION: -
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=44
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Thanksgiving Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20261127T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20261128T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T120833
-UID:1734
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1734
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T120833
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=44
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Truckee Home Access Program Buyer Workshop
-DTSTART;TZID=America/Los_Angeles:20261005T180000
-DTEND;TZID=America/Los_Angeles:20261005T190000
-DTSTAMP;TZID=America/Los_Angeles:20260212T122422
-UID:1841
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1841
-LAST-MODIFIED;TZID=America/Los_Angeles:20260212T122422
-LOCATION: -
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=44
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Labor Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20260907T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260908T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T120404
-UID:1728
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1728
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T120404
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=44
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Truckee Home Access Program Buyer Workshop
-DTSTART;TZID=America/Los_Angeles:20260803T180000
-DTEND;TZID=America/Los_Angeles:20260803T190000
-DTSTAMP;TZID=America/Los_Angeles:20260212T114642
-UID:1840
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1840
-LAST-MODIFIED;TZID=America/Los_Angeles:20260212T114642
-LOCATION: -
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=44
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Independence Day
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20260704T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260705T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T120314
-UID:627
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=627
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T120314
-LOCATION: -
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=44
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Independence Day Observance Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20260703T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260704T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T120233
-UID:1712
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1712
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T120233
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=44
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Juneteenth Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20260619T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260620T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T115940
-UID:1707
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1707
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T115940
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=44
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Truckee Home Access Program Buyer Workshop
-DTSTART;TZID=America/Los_Angeles:20260601T180000
-DTEND;TZID=America/Los_Angeles:20260601T190000
-DTSTAMP;TZID=America/Los_Angeles:20250416T104202
-UID:1620
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1620
-LAST-MODIFIED;TZID=America/Los_Angeles:20250416T104202
-LOCATION: -
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=44
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Memorial Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20260525T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260526T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T115819
-UID:1703
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1703
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T115819
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=44
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Truckee Home Access Program Buyer Workshop
-DTSTART;TZID=America/Los_Angeles:20260406T180000
-DTEND;TZID=America/Los_Angeles:20260406T190000
-DTSTAMP;TZID=America/Los_Angeles:20250416T104107
-UID:1619
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1619
-LAST-MODIFIED;TZID=America/Los_Angeles:20250416T104107
-LOCATION: -
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=44
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:President's Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20260216T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260217T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T111732
-UID:1537
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1537
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T111732
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=44
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Thanksgiving Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20291123T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20291124T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T120833
-UID:1737
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1737
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T120833
-LOCATION: -   Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=27
 END:VEVENT
 BEGIN:VEVENT
@@ -1312,18 +301,6 @@ UID:1703
 SEQUENCE:0
 DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1703
 LAST-MODIFIED;TZID=America/Los_Angeles:20260120T115819
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=27
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:President's Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20260216T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260217T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T111732
-UID:1537
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1537
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T111732
 LOCATION: -   Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=27
 END:VEVENT
@@ -1624,18 +601,6 @@ UID:1703
 SEQUENCE:0
 DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1703
 LAST-MODIFIED;TZID=America/Los_Angeles:20260120T115819
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=29
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:President's Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20260216T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260217T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T111732
-UID:1537
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1537
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T111732
 LOCATION: -   Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=29
 END:VEVENT
@@ -2216,6 +1181,18 @@ LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=24
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Truckee Tax Measure Citizen's Oversight Board Meeting
+DTSTART;TZID=America/Los_Angeles:20260309T170000
+DTEND;TZID=America/Los_Angeles:20260309T190000
+DTSTAMP;TZID=America/Los_Angeles:20260218T141236
+UID:1848
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1848
+LAST-MODIFIED;TZID=America/Los_Angeles:20260218T141236
+LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=24
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Public Art Commission of Truckee Meeting
 DTSTART;TZID=America/Los_Angeles:20260303T160000
 DTEND;TZID=America/Los_Angeles:20260303T180000
@@ -2228,30 +1205,16 @@ LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=24
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Truckee Library Joint Powers Authority Meeting
-DTSTART;TZID=America/Los_Angeles:20260218T130000
-DTEND;TZID=America/Los_Angeles:20260218T150000
-DTSTAMP;TZID=America/Los_Angeles:20260213T103053
-UID:1815
+SUMMARY:Truckee Town Council\, Redevelopment Successor Agency\, and Financ
+ ing Authority Meeting
+DTSTART;TZID=America/Los_Angeles:20260224T170000
+DTEND;TZID=America/Los_Angeles:20260224T220000
+DTSTAMP;TZID=America/Los_Angeles:20260219T114803
+UID:1788
 SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1815
-LAST-MODIFIED;TZID=America/Los_Angeles:20260213T103053
-LOCATION:<p><u>Additional Location:</u><br>Nevada County - Eric Rood Gover
- nment Center&nbsp\;<br>Northstar Conference Room&nbsp\;<br>950 Maidu Avenu
- e<br>Nevada City\, CA</p> - 10183 Truckee Airport Road Trout Creek Room Tr
- uckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=24
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:President's Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20260216T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260217T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T111732
-UID:1537
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1537
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T111732
-LOCATION: -   Truckee CA 96161
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1788
+LAST-MODIFIED;TZID=America/Los_Angeles:20260219T114803
+LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=24
 END:VEVENT
 BEGIN:VEVENT
@@ -2555,15 +1518,28 @@ LOCATION: -   Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=30
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:President's Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20260216T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260217T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T111732
-UID:1537
+SUMMARY:Truckee Tax Measure Citizen's Oversight Board Meeting
+DTSTART;TZID=America/Los_Angeles:20260309T170000
+DTEND;TZID=America/Los_Angeles:20260309T190000
+DTSTAMP;TZID=America/Los_Angeles:20260218T141236
+UID:1848
 SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1537
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T111732
-LOCATION: -   Truckee CA 96161
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1848
+LAST-MODIFIED;TZID=America/Los_Angeles:20260218T141236
+LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Truckee Town Council\, Redevelopment Successor Agency\, and Financ
+ ing Authority Meeting
+DTSTART;TZID=America/Los_Angeles:20260224T170000
+DTEND;TZID=America/Los_Angeles:20260224T220000
+DTSTAMP;TZID=America/Los_Angeles:20260219T114803
+UID:1788
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1788
+LAST-MODIFIED;TZID=America/Los_Angeles:20260219T114803
+LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=30
 END:VEVENT
 BEGIN:VEVENT
@@ -2963,15 +1939,15 @@ LOCATION: -
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:President's Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20260216T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260217T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T111732
-UID:1537
+SUMMARY:Truckee Tax Measure Citizen's Oversight Board Meeting
+DTSTART;TZID=America/Los_Angeles:20260309T170000
+DTEND;TZID=America/Los_Angeles:20260309T190000
+DTSTAMP;TZID=America/Los_Angeles:20260218T141236
+UID:1848
 SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1537
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T111732
-LOCATION: -   Truckee CA 96161
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1848
+LAST-MODIFIED;TZID=America/Los_Angeles:20260218T141236
+LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
@@ -3275,18 +2251,6 @@ LOCATION: -   Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=32
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:President's Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20260216T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260217T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T111732
-UID:1537
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1537
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T111732
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=32
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Thanksgiving Day Holiday Closure
 DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20291123T000000
 DTEND;TZID=America/Los_Angeles;VALUE=DATE:20291124T000000
@@ -3583,18 +2547,6 @@ UID:1703
 SEQUENCE:0
 DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1703
 LAST-MODIFIED;TZID=America/Los_Angeles:20260120T115819
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=28
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:President's Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20260216T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260217T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T111732
-UID:1537
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1537
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T111732
 LOCATION: -   Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=28
 END:VEVENT
@@ -3899,18 +2851,6 @@ LOCATION: -   Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:President's Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20260216T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260217T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T111732
-UID:1537
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1537
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T111732
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Thanksgiving Day Holiday Closure
 DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20291123T000000
 DTEND;TZID=America/Los_Angeles;VALUE=DATE:20291124T000000
@@ -4211,15 +3151,29 @@ LOCATION: -   Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=47
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:President's Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20260216T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260217T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T111732
-UID:1537
+SUMMARY:Commercial Trash Service Workshop
+DTSTART;TZID=America/Los_Angeles:20260303T083000
+DTEND;TZID=America/Los_Angeles:20260303T100000
+DTSTAMP;TZID=America/Los_Angeles:20260218T144449
+UID:1850
 SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1537
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T111732
-LOCATION: -   Truckee CA 96161
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1850
+LAST-MODIFIED;TZID=America/Los_Angeles:20260218T144449
+LOCATION: - Truckee Town Hall\, Council Chambers 10183 Truckee Airport Rd 
+ Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=47
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Commercial Trash Service Workshop
+DTSTART;TZID=America/Los_Angeles:20260302T130000
+DTEND;TZID=America/Los_Angeles:20260302T143000
+DTSTAMP;TZID=America/Los_Angeles:20260218T144341
+UID:1849
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1849
+LAST-MODIFIED;TZID=America/Los_Angeles:20260218T144341
+LOCATION: - Truckee Town Hall\, Council Chambers 10183 Truckee Airport Rd 
+ Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=47
 END:VEVENT
 BEGIN:VEVENT
@@ -7512,6 +6466,45 @@ LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Truckee Tax Measure Citizen's Oversight Board Meeting
+DTSTART;TZID=America/Los_Angeles:20260309T170000
+DTEND;TZID=America/Los_Angeles:20260309T190000
+DTSTAMP;TZID=America/Los_Angeles:20260218T141236
+UID:1848
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1848
+LAST-MODIFIED;TZID=America/Los_Angeles:20260218T141236
+LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Community Swim Night
+DTSTART;TZID=America/Los_Angeles:20260305T170000
+DTEND;TZID=America/Los_Angeles:20260305T190000
+DTSTAMP;TZID=America/Los_Angeles:20260217T151612
+UID:1846
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1846
+LAST-MODIFIED;TZID=America/Los_Angeles:20260217T151612
+LOCATION:<p data-pasted="true"><span style='font-size:16px\;font-family:"A
+ ptos"\,sans-serif\;' data-pasted="true">Truckee Community Swimming Pool&nb
+ sp\;</span></p> - 10939 Truckee Way\, Truckee\, CA 96161  Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tarde comunitaria en la alberca
+DTSTART;TZID=America/Los_Angeles:20260305T170000
+DTEND;TZID=America/Los_Angeles:20260305T190000
+DTSTAMP;TZID=America/Los_Angeles:20260218T132042
+UID:1847
+SEQUENCE:0
+DESCRIPTION: \n https://www.townoftruckee.gov/calendar.aspx?EID=1847
+LAST-MODIFIED;TZID=America/Los_Angeles:20260218T132042
+LOCATION:<p>Alberca del Centro de Recreaci&oacute\;n en Truckee</p> - 1093
+ 9 Truckee Way\, Truckee\, CA 96161  Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Zoning Administrator Meeting
 DTSTART;TZID=America/Los_Angeles:20260304T130000
 DTEND;TZID=America/Los_Angeles:20260304T140000
@@ -7537,15 +6530,29 @@ LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Commercial Trash Service Workshop
+DTSTART;TZID=America/Los_Angeles:20260302T130000
+DTEND;TZID=America/Los_Angeles:20260302T143000
+DTSTAMP;TZID=America/Los_Angeles:20260218T144341
+UID:1849
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1849
+LAST-MODIFIED;TZID=America/Los_Angeles:20260218T144341
+LOCATION: - Truckee Town Hall\, Council Chambers 10183 Truckee Airport Rd 
+ Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Planning Commission Meeting - Special Meeting
 DTSTART;TZID=America/Los_Angeles:20260226T170000
 DTEND;TZID=America/Los_Angeles:20260226T220000
-DTSTAMP;TZID=America/Los_Angeles:20260130T133831
+DTSTAMP;TZID=America/Los_Angeles:20260219T090456
 UID:1838
 SEQUENCE:0
 DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1838
-LAST-MODIFIED;TZID=America/Los_Angeles:20260130T133831
-LOCATION: -   Truckee CA 96161
+LAST-MODIFIED;TZID=America/Los_Angeles:20260219T090456
+LOCATION:<p>The Council Chambers at Truckee Town Hall.&nbsp\;</p> -   Truc
+ kee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
@@ -7553,65 +6560,12 @@ SUMMARY:Truckee Town Council\, Redevelopment Successor Agency\, and Financ
  ing Authority Meeting
 DTSTART;TZID=America/Los_Angeles:20260224T170000
 DTEND;TZID=America/Los_Angeles:20260224T220000
-DTSTAMP;TZID=America/Los_Angeles:20251229T160538
+DTSTAMP;TZID=America/Los_Angeles:20260219T114803
 UID:1788
 SEQUENCE:0
 DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1788
-LAST-MODIFIED;TZID=America/Los_Angeles:20251229T160538
+LAST-MODIFIED;TZID=America/Los_Angeles:20260219T114803
 LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zoning Administrator Meeting
-DTSTART;TZID=America/Los_Angeles:20260218T130000
-DTEND;TZID=America/Los_Angeles:20260218T140000
-DTSTAMP;TZID=America/Los_Angeles:20240411T135555
-UID:1207
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1207
-LAST-MODIFIED;TZID=America/Los_Angeles:20240411T135555
-LOCATION:<p>The Prosser Room at Truckee Town Hall</p> - 10183 Truckee Airp
- ort Road  Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Truckee Library Joint Powers Authority Meeting
-DTSTART;TZID=America/Los_Angeles:20260218T130000
-DTEND;TZID=America/Los_Angeles:20260218T150000
-DTSTAMP;TZID=America/Los_Angeles:20260213T103053
-UID:1815
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1815
-LAST-MODIFIED;TZID=America/Los_Angeles:20260213T103053
-LOCATION:<p><u>Additional Location:</u><br>Nevada County - Eric Rood Gover
- nment Center&nbsp\;<br>Northstar Conference Room&nbsp\;<br>950 Maidu Avenu
- e<br>Nevada City\, CA</p> - 10183 Truckee Airport Road Trout Creek Room Tr
- uckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Planning Commission Meeting
-DTSTART;TZID=America/Los_Angeles:20260217T170000
-DTEND;TZID=America/Los_Angeles:20260217T220000
-DTSTAMP;TZID=America/Los_Angeles:20260212T112153
-UID:1155
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1155
-LAST-MODIFIED;TZID=America/Los_Angeles:20260212T112153
-LOCATION:<p>The Council Chambers at Truckee Town Hall.&nbsp\;</p> - 10183 
- Truckee Airport Road  Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:President's Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20260216T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260217T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T111732
-UID:1537
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1537
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T111732
-LOCATION: -   Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
@@ -9344,50 +8298,13 @@ BEGIN:VEVENT
 SUMMARY:Planning Commission Meeting - Special Meeting
 DTSTART;TZID=America/Los_Angeles:20260226T170000
 DTEND;TZID=America/Los_Angeles:20260226T220000
-DTSTAMP;TZID=America/Los_Angeles:20260130T133831
+DTSTAMP;TZID=America/Los_Angeles:20260219T090456
 UID:1838
 SEQUENCE:0
 DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1838
-LAST-MODIFIED;TZID=America/Los_Angeles:20260130T133831
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zoning Administrator Meeting
-DTSTART;TZID=America/Los_Angeles:20260218T130000
-DTEND;TZID=America/Los_Angeles:20260218T140000
-DTSTAMP;TZID=America/Los_Angeles:20240411T135555
-UID:1207
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1207
-LAST-MODIFIED;TZID=America/Los_Angeles:20240411T135555
-LOCATION:<p>The Prosser Room at Truckee Town Hall</p> - 10183 Truckee Airp
- ort Road  Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Planning Commission Meeting
-DTSTART;TZID=America/Los_Angeles:20260217T170000
-DTEND;TZID=America/Los_Angeles:20260217T220000
-DTSTAMP;TZID=America/Los_Angeles:20260212T112153
-UID:1155
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1155
-LAST-MODIFIED;TZID=America/Los_Angeles:20260212T112153
-LOCATION:<p>The Council Chambers at Truckee Town Hall.&nbsp\;</p> - 10183 
- Truckee Airport Road  Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:President's Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20260216T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260217T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T111732
-UID:1537
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1537
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T111732
-LOCATION: -   Truckee CA 96161
+LAST-MODIFIED;TZID=America/Los_Angeles:20260219T090456
+LOCATION:<p>The Council Chambers at Truckee Town Hall.&nbsp\;</p> -   Truc
+ kee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34
 END:VEVENT
 BEGIN:VEVENT
@@ -9687,18 +8604,6 @@ UID:1703
 SEQUENCE:0
 DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1703
 LAST-MODIFIED;TZID=America/Los_Angeles:20260120T115819
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:President's Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20260216T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260217T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T111732
-UID:1537
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1537
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T111732
 LOCATION: -   Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35
 END:VEVENT
@@ -10291,18 +9196,6 @@ LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=36
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:President's Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20260216T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260217T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T111732
-UID:1537
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1537
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T111732
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=36
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Thanksgiving Day Holiday Closure
 DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20291123T000000
 DTEND;TZID=America/Los_Angeles;VALUE=DATE:20291124T000000
@@ -10599,18 +9492,6 @@ UID:1703
 SEQUENCE:0
 DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1703
 LAST-MODIFIED;TZID=America/Los_Angeles:20260120T115819
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=37
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:President's Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20260216T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260217T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T111732
-UID:1537
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1537
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T111732
 LOCATION: -   Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=37
 END:VEVENT
@@ -10915,18 +9796,6 @@ LOCATION: -   Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=38
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:President's Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20260216T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260217T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T111732
-UID:1537
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1537
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T111732
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=38
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Thanksgiving Day Holiday Closure
 DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20291123T000000
 DTEND;TZID=America/Los_Angeles;VALUE=DATE:20291124T000000
@@ -11223,18 +10092,6 @@ UID:1703
 SEQUENCE:0
 DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1703
 LAST-MODIFIED;TZID=America/Los_Angeles:20260120T115819
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=46
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:President's Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20260216T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260217T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T111732
-UID:1537
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1537
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T111732
 LOCATION: -   Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=46
 END:VEVENT
@@ -11539,18 +10396,6 @@ LOCATION: -   Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=39
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:President's Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20260216T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260217T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T111732
-UID:1537
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1537
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T111732
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=39
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Thanksgiving Day Holiday Closure
 DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20291123T000000
 DTEND;TZID=America/Los_Angeles;VALUE=DATE:20291124T000000
@@ -11847,18 +10692,6 @@ UID:1703
 SEQUENCE:0
 DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1703
 LAST-MODIFIED;TZID=America/Los_Angeles:20260120T115819
-LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:President's Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20260216T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260217T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T111732
-UID:1537
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1537
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T111732
 LOCATION: -   Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
 END:VEVENT
@@ -12163,15 +10996,15 @@ LOCATION: -   Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=41
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:President's Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20260216T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260217T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T111732
-UID:1537
+SUMMARY:Truckee Tax Measure Citizen's Oversight Board Meeting
+DTSTART;TZID=America/Los_Angeles:20260309T170000
+DTEND;TZID=America/Los_Angeles:20260309T190000
+DTSTAMP;TZID=America/Los_Angeles:20260218T141236
+UID:1848
 SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1537
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T111732
-LOCATION: -   Truckee CA 96161
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1848
+LAST-MODIFIED;TZID=America/Los_Angeles:20260218T141236
+LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=41
 END:VEVENT
 BEGIN:VEVENT
@@ -13051,24 +11884,12 @@ SUMMARY:Truckee Town Council\, Redevelopment Successor Agency\, and Financ
  ing Authority Meeting
 DTSTART;TZID=America/Los_Angeles:20260224T170000
 DTEND;TZID=America/Los_Angeles:20260224T220000
-DTSTAMP;TZID=America/Los_Angeles:20251229T160538
+DTSTAMP;TZID=America/Los_Angeles:20260219T114803
 UID:1788
 SEQUENCE:0
 DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1788
-LAST-MODIFIED;TZID=America/Los_Angeles:20251229T160538
+LAST-MODIFIED;TZID=America/Los_Angeles:20260219T114803
 LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=45
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:President's Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20260216T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260217T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T111732
-UID:1537
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1537
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T111732
-LOCATION: -   Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=45
 END:VEVENT
 BEGIN:VEVENT
@@ -13372,15 +12193,29 @@ LOCATION: -   Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=42
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:President's Day Holiday Closure
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20260216T000000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE:20260217T000000
-DTSTAMP;TZID=America/Los_Angeles:20260120T111732
-UID:1537
+SUMMARY:Commercial Trash Service Workshop
+DTSTART;TZID=America/Los_Angeles:20260303T083000
+DTEND;TZID=America/Los_Angeles:20260303T100000
+DTSTAMP;TZID=America/Los_Angeles:20260218T144449
+UID:1850
 SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1537
-LAST-MODIFIED;TZID=America/Los_Angeles:20260120T111732
-LOCATION: -   Truckee CA 96161
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1850
+LAST-MODIFIED;TZID=America/Los_Angeles:20260218T144449
+LOCATION: - Truckee Town Hall\, Council Chambers 10183 Truckee Airport Rd 
+ Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Commercial Trash Service Workshop
+DTSTART;TZID=America/Los_Angeles:20260302T130000
+DTEND;TZID=America/Los_Angeles:20260302T143000
+DTSTAMP;TZID=America/Los_Angeles:20260218T144341
+UID:1849
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1849
+LAST-MODIFIED;TZID=America/Los_Angeles:20260218T144341
+LOCATION: - Truckee Town Hall\, Council Chambers 10183 Truckee Airport Rd 
+ Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=42
 END:VEVENT
 END:VCALENDAR
