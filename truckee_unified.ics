@@ -929,6 +929,18 @@ LOCATION: -   Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=44
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Truckee Day
+DTSTART;TZID=America/Los_Angeles:20260606T080000
+DTEND;TZID=America/Los_Angeles:20260606T140000
+DTSTAMP;TZID=America/Los_Angeles:20260414T153447
+UID:1861
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1861
+LAST-MODIFIED;TZID=America/Los_Angeles:20260414T153447
+LOCATION: -     
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=44
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Truckee Home Access Program Buyer Workshop
 DTSTART;TZID=America/Los_Angeles:20260601T180000
 DTEND;TZID=America/Los_Angeles:20260601T190000
@@ -950,6 +962,19 @@ SEQUENCE:0
 DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1703
 LAST-MODIFIED;TZID=America/Los_Angeles:20260120T115819
 LOCATION: -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=44
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fixit Clinic
+DTSTART;TZID=America/Los_Angeles:20260427T160000
+DTEND;TZID=America/Los_Angeles:20260427T190000
+DTSTAMP;TZID=America/Los_Angeles:20260414T140219
+UID:1853
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1853
+LAST-MODIFIED;TZID=America/Los_Angeles:20260414T140219
+LOCATION:<p data-pasted="true">Truckee Roundhouse<br><br></p> - 12116 Chan
+ delle Way Suite E3  Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=44
 END:VEVENT
 BEGIN:VEVENT
@@ -1205,6 +1230,32 @@ LOCATION: -   Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=27
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Green Waste Drop-Off
+DTSTART;TZID=America/Los_Angeles:20260904T080000
+DTEND;TZID=America/Los_Angeles:20260904T130000
+DTSTAMP;TZID=America/Los_Angeles:20260414T140031
+UID:1857
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1857
+LAST-MODIFIED;TZID=America/Los_Angeles:20260414T140031
+LOCATION:<p>Tahoe Donner Downhill Ski Area<br><br></p> - 14942 Slalom Way 
+  Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Green Waste Drop-Off
+DTSTART;TZID=America/Los_Angeles:20260710T080000
+DTEND;TZID=America/Los_Angeles:20260710T130000
+DTSTAMP;TZID=America/Los_Angeles:20260414T140440
+UID:1856
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1856
+LAST-MODIFIED;TZID=America/Los_Angeles:20260414T140440
+LOCATION:<p>Truckee Rodeo Grounds</p> - 10050 Brockway Rd  Truckee CA 9616
+ 1
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=27
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Independence Day 
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260704
@@ -1229,6 +1280,19 @@ LOCATION: -   Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=27
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Green Waste Drop-Off
+DTSTART;TZID=America/Los_Angeles:20260627T080000
+DTEND;TZID=America/Los_Angeles:20260627T130000
+DTSTAMP;TZID=America/Los_Angeles:20260414T140412
+UID:1855
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1855
+LAST-MODIFIED;TZID=America/Los_Angeles:20260414T140412
+LOCATION:<p>Truckee Rodeo Grounds</p> - 10050 Brockway Rd  Truckee CA 9616
+ 1
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=27
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Juneteenth Holiday Closure
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260619
@@ -1238,6 +1302,19 @@ SEQUENCE:0
 DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1707
 LAST-MODIFIED;TZID=America/Los_Angeles:20260120T115940
 LOCATION: -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Green Waste Drop-Off
+DTSTART;TZID=America/Los_Angeles:20260529T080000
+DTEND;TZID=America/Los_Angeles:20260529T130000
+DTSTAMP;TZID=America/Los_Angeles:20260414T140104
+UID:1854
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1854
+LAST-MODIFIED;TZID=America/Los_Angeles:20260414T140104
+LOCATION:<p>Tahoe Donner Downhill Ski Area<br><br></p> - 14942 Slalom Way 
+  Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=27
 END:VEVENT
 BEGIN:VEVENT
@@ -3953,6 +4030,44 @@ LOCATION: -   Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=47
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Green Waste Drop-Off
+DTSTART;TZID=America/Los_Angeles:20260904T080000
+DTEND;TZID=America/Los_Angeles:20260904T130000
+DTSTAMP;TZID=America/Los_Angeles:20260414T140031
+UID:1857
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1857
+LAST-MODIFIED;TZID=America/Los_Angeles:20260414T140031
+LOCATION:<p>Tahoe Donner Downhill Ski Area<br><br></p> - 14942 Slalom Way 
+  Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=47
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recycle/Yard Waste Cart Pickup
+DTSTART;TZID=America/Los_Angeles:20260718T080000
+DTEND;TZID=America/Los_Angeles:20260718T110000
+DTSTAMP;TZID=America/Los_Angeles:20260414T135824
+UID:1860
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1860
+LAST-MODIFIED;TZID=America/Los_Angeles:20260414T135824
+LOCATION: -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=47
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Green Waste Drop-Off
+DTSTART;TZID=America/Los_Angeles:20260710T080000
+DTEND;TZID=America/Los_Angeles:20260710T130000
+DTSTAMP;TZID=America/Los_Angeles:20260414T140440
+UID:1856
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1856
+LAST-MODIFIED;TZID=America/Los_Angeles:20260414T140440
+LOCATION:<p>Truckee Rodeo Grounds</p> - 10050 Brockway Rd  Truckee CA 9616
+ 1
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=47
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Independence Day 
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260704
@@ -3977,6 +4092,19 @@ LOCATION: -   Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=47
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Green Waste Drop-Off
+DTSTART;TZID=America/Los_Angeles:20260627T080000
+DTEND;TZID=America/Los_Angeles:20260627T130000
+DTSTAMP;TZID=America/Los_Angeles:20260414T140412
+UID:1855
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1855
+LAST-MODIFIED;TZID=America/Los_Angeles:20260414T140412
+LOCATION:<p>Truckee Rodeo Grounds</p> - 10050 Brockway Rd  Truckee CA 9616
+ 1
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=47
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Juneteenth Holiday Closure
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260619
@@ -3989,6 +4117,43 @@ LOCATION: -   Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=47
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Recycle/Yard Waste Cart Pickup
+DTSTART;TZID=America/Los_Angeles:20260612T080000
+DTEND;TZID=America/Los_Angeles:20260612T110000
+DTSTAMP;TZID=America/Los_Angeles:20260414T135732
+UID:1859
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1859
+LAST-MODIFIED;TZID=America/Los_Angeles:20260414T135732
+LOCATION: -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=47
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Truckee Day
+DTSTART;TZID=America/Los_Angeles:20260606T080000
+DTEND;TZID=America/Los_Angeles:20260606T140000
+DTSTAMP;TZID=America/Los_Angeles:20260414T153447
+UID:1861
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1861
+LAST-MODIFIED;TZID=America/Los_Angeles:20260414T153447
+LOCATION: -     
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=47
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Green Waste Drop-Off
+DTSTART;TZID=America/Los_Angeles:20260529T080000
+DTEND;TZID=America/Los_Angeles:20260529T130000
+DTSTAMP;TZID=America/Los_Angeles:20260414T140104
+UID:1854
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1854
+LAST-MODIFIED;TZID=America/Los_Angeles:20260414T140104
+LOCATION:<p>Tahoe Donner Downhill Ski Area<br><br></p> - 14942 Slalom Way 
+  Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=47
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Memorial Day Holiday Closure
 DTSTART;VALUE=DATE:20260525
 DTEND;VALUE=DATE:20260525
@@ -3998,6 +4163,31 @@ SEQUENCE:0
 DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1703
 LAST-MODIFIED;TZID=America/Los_Angeles:20260120T115819
 LOCATION: -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=47
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recycle/Yard Waste Cart Pickup
+DTSTART;TZID=America/Los_Angeles:20260501T080000
+DTEND;TZID=America/Los_Angeles:20260501T110000
+DTSTAMP;TZID=America/Los_Angeles:20260414T135646
+UID:1858
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1858
+LAST-MODIFIED;TZID=America/Los_Angeles:20260414T135646
+LOCATION: -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=47
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fixit Clinic
+DTSTART;TZID=America/Los_Angeles:20260427T160000
+DTEND;TZID=America/Los_Angeles:20260427T190000
+DTSTAMP;TZID=America/Los_Angeles:20260414T140219
+UID:1853
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1853
+LAST-MODIFIED;TZID=America/Los_Angeles:20260414T140219
+LOCATION:<p data-pasted="true">Truckee Roundhouse<br><br></p> - 12116 Chan
+ delle Way Suite E3  Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=47
 END:VEVENT
 BEGIN:VEVENT
@@ -6582,6 +6772,19 @@ LOCATION: -   Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Green Waste Drop-Off
+DTSTART;TZID=America/Los_Angeles:20260904T080000
+DTEND;TZID=America/Los_Angeles:20260904T130000
+DTSTAMP;TZID=America/Los_Angeles:20260414T140031
+UID:1857
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1857
+LAST-MODIFIED;TZID=America/Los_Angeles:20260414T140031
+LOCATION:<p>Tahoe Donner Downhill Ski Area<br><br></p> - 14942 Slalom Way 
+  Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Zoning Administrator Meeting 
 DTSTART;TZID=America/Los_Angeles:20260902T130000
 DTEND;TZID=America/Los_Angeles:20260902T140000
@@ -6749,6 +6952,18 @@ LOCATION:<p>The Council Chambers at Truckee Town Hall.&nbsp\;</p> - 10183
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Recycle/Yard Waste Cart Pickup
+DTSTART;TZID=America/Los_Angeles:20260718T080000
+DTEND;TZID=America/Los_Angeles:20260718T110000
+DTSTAMP;TZID=America/Los_Angeles:20260414T135824
+UID:1860
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1860
+LAST-MODIFIED;TZID=America/Los_Angeles:20260414T135824
+LOCATION: -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Zoning Administrator Meeting 
 DTSTART;TZID=America/Los_Angeles:20260715T130000
 DTEND;TZID=America/Los_Angeles:20260715T140000
@@ -6786,6 +7001,19 @@ SEQUENCE:0
 DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1768
 LAST-MODIFIED;TZID=America/Los_Angeles:20251229T155253
 LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Green Waste Drop-Off
+DTSTART;TZID=America/Los_Angeles:20260710T080000
+DTEND;TZID=America/Los_Angeles:20260710T130000
+DTSTAMP;TZID=America/Los_Angeles:20260414T140440
+UID:1856
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1856
+LAST-MODIFIED;TZID=America/Los_Angeles:20260414T140440
+LOCATION:<p>Truckee Rodeo Grounds</p> - 10050 Brockway Rd  Truckee CA 9616
+ 1
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
@@ -6848,6 +7076,19 @@ DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1106
 LAST-MODIFIED;TZID=America/Los_Angeles:20240327T141432
 LOCATION:<p>Prosser Room at Town Hall</p> - 10183 Truckee Airport Rd  Truc
  kee Ca 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Green Waste Drop-Off
+DTSTART;TZID=America/Los_Angeles:20260627T080000
+DTEND;TZID=America/Los_Angeles:20260627T130000
+DTSTAMP;TZID=America/Los_Angeles:20260414T140412
+UID:1855
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1855
+LAST-MODIFIED;TZID=America/Los_Angeles:20260414T140412
+LOCATION:<p>Truckee Rodeo Grounds</p> - 10050 Brockway Rd  Truckee CA 9616
+ 1
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
@@ -6916,6 +7157,18 @@ LOCATION:<p>The Council Chambers at Truckee Town Hall.&nbsp\;</p> - 10183
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Recycle/Yard Waste Cart Pickup
+DTSTART;TZID=America/Los_Angeles:20260612T080000
+DTEND;TZID=America/Los_Angeles:20260612T110000
+DTSTAMP;TZID=America/Los_Angeles:20260414T135732
+UID:1859
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1859
+LAST-MODIFIED;TZID=America/Los_Angeles:20260414T135732
+LOCATION: -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Historic Preservation Advisory Commission 
 DTSTART;TZID=America/Los_Angeles:20260610T080000
 DTEND;TZID=America/Los_Angeles:20260610T100000
@@ -6939,6 +7192,18 @@ SEQUENCE:0
 DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1767
 LAST-MODIFIED;TZID=America/Los_Angeles:20251229T155253
 LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Truckee Day
+DTSTART;TZID=America/Los_Angeles:20260606T080000
+DTEND;TZID=America/Los_Angeles:20260606T140000
+DTSTAMP;TZID=America/Los_Angeles:20260414T153447
+UID:1861
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1861
+LAST-MODIFIED;TZID=America/Los_Angeles:20260414T153447
+LOCATION: -     
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
@@ -6989,6 +7254,19 @@ SEQUENCE:0
 DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1620
 LAST-MODIFIED;TZID=America/Los_Angeles:20250416T104202
 LOCATION: -     
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Green Waste Drop-Off
+DTSTART;TZID=America/Los_Angeles:20260529T080000
+DTEND;TZID=America/Los_Angeles:20260529T130000
+DTSTAMP;TZID=America/Los_Angeles:20260414T140104
+UID:1854
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1854
+LAST-MODIFIED;TZID=America/Los_Angeles:20260414T140104
+LOCATION:<p>Tahoe Donner Downhill Ski Area<br><br></p> - 14942 Slalom Way 
+  Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
@@ -7108,6 +7386,18 @@ LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Recycle/Yard Waste Cart Pickup
+DTSTART;TZID=America/Los_Angeles:20260501T080000
+DTEND;TZID=America/Los_Angeles:20260501T110000
+DTSTAMP;TZID=America/Los_Angeles:20260414T135646
+UID:1858
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1858
+LAST-MODIFIED;TZID=America/Los_Angeles:20260414T135646
+LOCATION: -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Truckee Town Council\, Redevelopment Successor Agency\, and Financ
  ing Authority Meeting
 DTSTART;TZID=America/Los_Angeles:20260428T170000
@@ -7121,56 +7411,29 @@ LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fixit Clinic
+DTSTART;TZID=America/Los_Angeles:20260427T160000
+DTEND;TZID=America/Los_Angeles:20260427T190000
+DTSTAMP;TZID=America/Los_Angeles:20260414T140219
+UID:1853
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1853
+LAST-MODIFIED;TZID=America/Los_Angeles:20260414T140219
+LOCATION:<p data-pasted="true">Truckee Roundhouse<br><br></p> - 12116 Chan
+ delle Way Suite E3  Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Planning Commission Meeting
 DTSTART;TZID=America/Los_Angeles:20260421T170000
 DTEND;TZID=America/Los_Angeles:20260421T220000
-DTSTAMP;TZID=America/Los_Angeles:20240515T131641
+DTSTAMP;TZID=America/Los_Angeles:20260416T155022
 UID:1157
 SEQUENCE:0
 DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1157
-LAST-MODIFIED;TZID=America/Los_Angeles:20240515T131641
+LAST-MODIFIED;TZID=America/Los_Angeles:20260416T155022
 LOCATION:<p>The Council Chambers at Truckee Town Hall.&nbsp\;</p> - 10183 
  Truckee Airport Road  Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zoning Administrator Meeting 
-DTSTART;TZID=America/Los_Angeles:20260415T130000
-DTEND;TZID=America/Los_Angeles:20260415T140000
-DTSTAMP;TZID=America/Los_Angeles:20260409T110657
-UID:1209
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1209
-LAST-MODIFIED;TZID=America/Los_Angeles:20260409T110657
-LOCATION:<p>The Prosser Room at Truckee Town Hall</p> - 10183 Truckee Airp
- ort Road  Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Truckee Library Joint Powers Authority Meeting
-DTSTART;TZID=America/Los_Angeles:20260415T130000
-DTEND;TZID=America/Los_Angeles:20260415T150000
-DTSTAMP;TZID=America/Los_Angeles:20260107T115700
-UID:1817
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1817
-LAST-MODIFIED;TZID=America/Los_Angeles:20260107T115700
-LOCATION:<p><u>Additional Location:</u><br>Nevada County - Eric Rood Gover
- nment Center&nbsp\;<br>Northstar Conference Room&nbsp\;<br>950 Maidu Avenu
- e<br>Nevada City\, CA</p> - 10183 Truckee Airport Road  Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Notice of Cancelation of Truckee Town Council\, Redevelopment Succ
- essor Agency\, and Financing Authority Meeting
-DTSTART;TZID=America/Los_Angeles:20260414T170000
-DTEND;TZID=America/Los_Angeles:20260414T220000
-DTSTAMP;TZID=America/Los_Angeles:20260224T182236
-UID:1765
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1765
-LAST-MODIFIED;TZID=America/Los_Angeles:20260224T182236
-LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
@@ -8812,26 +9075,13 @@ BEGIN:VEVENT
 SUMMARY:Planning Commission Meeting
 DTSTART;TZID=America/Los_Angeles:20260421T170000
 DTEND;TZID=America/Los_Angeles:20260421T220000
-DTSTAMP;TZID=America/Los_Angeles:20240515T131641
+DTSTAMP;TZID=America/Los_Angeles:20260416T155022
 UID:1157
 SEQUENCE:0
 DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1157
-LAST-MODIFIED;TZID=America/Los_Angeles:20240515T131641
+LAST-MODIFIED;TZID=America/Los_Angeles:20260416T155022
 LOCATION:<p>The Council Chambers at Truckee Town Hall.&nbsp\;</p> - 10183 
  Truckee Airport Road  Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zoning Administrator Meeting 
-DTSTART;TZID=America/Los_Angeles:20260415T130000
-DTEND;TZID=America/Los_Angeles:20260415T140000
-DTSTAMP;TZID=America/Los_Angeles:20260409T110657
-UID:1209
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1209
-LAST-MODIFIED;TZID=America/Los_Angeles:20260409T110657
-LOCATION:<p>The Prosser Room at Truckee Town Hall</p> - 10183 Truckee Airp
- ort Road  Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34
 END:VEVENT
 BEGIN:VEVENT
@@ -11151,6 +11401,44 @@ LOCATION: -   Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Green Waste Drop-Off
+DTSTART;TZID=America/Los_Angeles:20260904T080000
+DTEND;TZID=America/Los_Angeles:20260904T130000
+DTSTAMP;TZID=America/Los_Angeles:20260414T140031
+UID:1857
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1857
+LAST-MODIFIED;TZID=America/Los_Angeles:20260414T140031
+LOCATION:<p>Tahoe Donner Downhill Ski Area<br><br></p> - 14942 Slalom Way 
+  Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recycle/Yard Waste Cart Pickup
+DTSTART;TZID=America/Los_Angeles:20260718T080000
+DTEND;TZID=America/Los_Angeles:20260718T110000
+DTSTAMP;TZID=America/Los_Angeles:20260414T135824
+UID:1860
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1860
+LAST-MODIFIED;TZID=America/Los_Angeles:20260414T135824
+LOCATION: -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Green Waste Drop-Off
+DTSTART;TZID=America/Los_Angeles:20260710T080000
+DTEND;TZID=America/Los_Angeles:20260710T130000
+DTSTAMP;TZID=America/Los_Angeles:20260414T140440
+UID:1856
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1856
+LAST-MODIFIED;TZID=America/Los_Angeles:20260414T140440
+LOCATION:<p>Truckee Rodeo Grounds</p> - 10050 Brockway Rd  Truckee CA 9616
+ 1
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Independence Day 
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260704
@@ -11175,6 +11463,19 @@ LOCATION: -   Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Green Waste Drop-Off
+DTSTART;TZID=America/Los_Angeles:20260627T080000
+DTEND;TZID=America/Los_Angeles:20260627T130000
+DTSTAMP;TZID=America/Los_Angeles:20260414T140412
+UID:1855
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1855
+LAST-MODIFIED;TZID=America/Los_Angeles:20260414T140412
+LOCATION:<p>Truckee Rodeo Grounds</p> - 10050 Brockway Rd  Truckee CA 9616
+ 1
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Juneteenth Holiday Closure
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260619
@@ -11187,6 +11488,30 @@ LOCATION: -   Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Recycle/Yard Waste Cart Pickup
+DTSTART;TZID=America/Los_Angeles:20260612T080000
+DTEND;TZID=America/Los_Angeles:20260612T110000
+DTSTAMP;TZID=America/Los_Angeles:20260414T135732
+UID:1859
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1859
+LAST-MODIFIED;TZID=America/Los_Angeles:20260414T135732
+LOCATION: -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Truckee Day
+DTSTART;TZID=America/Los_Angeles:20260606T080000
+DTEND;TZID=America/Los_Angeles:20260606T140000
+DTSTAMP;TZID=America/Los_Angeles:20260414T153447
+UID:1861
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1861
+LAST-MODIFIED;TZID=America/Los_Angeles:20260414T153447
+LOCATION: -     
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Memorial Day Holiday Closure
 DTSTART;VALUE=DATE:20260525
 DTEND;VALUE=DATE:20260525
@@ -11196,6 +11521,31 @@ SEQUENCE:0
 DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1703
 LAST-MODIFIED;TZID=America/Los_Angeles:20260120T115819
 LOCATION: -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recycle/Yard Waste Cart Pickup
+DTSTART;TZID=America/Los_Angeles:20260501T080000
+DTEND;TZID=America/Los_Angeles:20260501T110000
+DTSTAMP;TZID=America/Los_Angeles:20260414T135646
+UID:1858
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1858
+LAST-MODIFIED;TZID=America/Los_Angeles:20260414T135646
+LOCATION: -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fixit Clinic
+DTSTART;TZID=America/Los_Angeles:20260427T160000
+DTEND;TZID=America/Los_Angeles:20260427T190000
+DTSTAMP;TZID=America/Los_Angeles:20260414T140219
+UID:1853
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1853
+LAST-MODIFIED;TZID=America/Los_Angeles:20260414T140219
+LOCATION:<p data-pasted="true">Truckee Roundhouse<br><br></p> - 12116 Chan
+ delle Way Suite E3  Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
 END:VEVENT
 BEGIN:VEVENT
@@ -12332,19 +12682,6 @@ LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=45
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Notice of Cancelation of Truckee Town Council\, Redevelopment Succ
- essor Agency\, and Financing Authority Meeting
-DTSTART;TZID=America/Los_Angeles:20260414T170000
-DTEND;TZID=America/Los_Angeles:20260414T220000
-DTSTAMP;TZID=America/Los_Angeles:20260224T182236
-UID:1765
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1765
-LAST-MODIFIED;TZID=America/Los_Angeles:20260224T182236
-LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=45
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Thanksgiving Day Holiday Closure
 DTSTART;VALUE=DATE:20291123
 DTEND;VALUE=DATE:20291123
@@ -12597,6 +12934,44 @@ LOCATION: -   Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=42
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Green Waste Drop-Off
+DTSTART;TZID=America/Los_Angeles:20260904T080000
+DTEND;TZID=America/Los_Angeles:20260904T130000
+DTSTAMP;TZID=America/Los_Angeles:20260414T140031
+UID:1857
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1857
+LAST-MODIFIED;TZID=America/Los_Angeles:20260414T140031
+LOCATION:<p>Tahoe Donner Downhill Ski Area<br><br></p> - 14942 Slalom Way 
+  Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recycle/Yard Waste Cart Pickup
+DTSTART;TZID=America/Los_Angeles:20260718T080000
+DTEND;TZID=America/Los_Angeles:20260718T110000
+DTSTAMP;TZID=America/Los_Angeles:20260414T135824
+UID:1860
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1860
+LAST-MODIFIED;TZID=America/Los_Angeles:20260414T135824
+LOCATION: -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Green Waste Drop-Off
+DTSTART;TZID=America/Los_Angeles:20260710T080000
+DTEND;TZID=America/Los_Angeles:20260710T130000
+DTSTAMP;TZID=America/Los_Angeles:20260414T140440
+UID:1856
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1856
+LAST-MODIFIED;TZID=America/Los_Angeles:20260414T140440
+LOCATION:<p>Truckee Rodeo Grounds</p> - 10050 Brockway Rd  Truckee CA 9616
+ 1
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=42
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Independence Day 
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260704
@@ -12621,6 +12996,19 @@ LOCATION: -   Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=42
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Green Waste Drop-Off
+DTSTART;TZID=America/Los_Angeles:20260627T080000
+DTEND;TZID=America/Los_Angeles:20260627T130000
+DTSTAMP;TZID=America/Los_Angeles:20260414T140412
+UID:1855
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1855
+LAST-MODIFIED;TZID=America/Los_Angeles:20260414T140412
+LOCATION:<p>Truckee Rodeo Grounds</p> - 10050 Brockway Rd  Truckee CA 9616
+ 1
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=42
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Juneteenth Holiday Closure
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260619
@@ -12633,6 +13021,43 @@ LOCATION: -   Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=42
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Recycle/Yard Waste Cart Pickup
+DTSTART;TZID=America/Los_Angeles:20260612T080000
+DTEND;TZID=America/Los_Angeles:20260612T110000
+DTSTAMP;TZID=America/Los_Angeles:20260414T135732
+UID:1859
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1859
+LAST-MODIFIED;TZID=America/Los_Angeles:20260414T135732
+LOCATION: -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Truckee Day
+DTSTART;TZID=America/Los_Angeles:20260606T080000
+DTEND;TZID=America/Los_Angeles:20260606T140000
+DTSTAMP;TZID=America/Los_Angeles:20260414T153447
+UID:1861
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1861
+LAST-MODIFIED;TZID=America/Los_Angeles:20260414T153447
+LOCATION: -     
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Green Waste Drop-Off
+DTSTART;TZID=America/Los_Angeles:20260529T080000
+DTEND;TZID=America/Los_Angeles:20260529T130000
+DTSTAMP;TZID=America/Los_Angeles:20260414T140104
+UID:1854
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1854
+LAST-MODIFIED;TZID=America/Los_Angeles:20260414T140104
+LOCATION:<p>Tahoe Donner Downhill Ski Area<br><br></p> - 14942 Slalom Way 
+  Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=42
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Memorial Day Holiday Closure
 DTSTART;VALUE=DATE:20260525
 DTEND;VALUE=DATE:20260525
@@ -12642,6 +13067,31 @@ SEQUENCE:0
 DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1703
 LAST-MODIFIED;TZID=America/Los_Angeles:20260120T115819
 LOCATION: -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recycle/Yard Waste Cart Pickup
+DTSTART;TZID=America/Los_Angeles:20260501T080000
+DTEND;TZID=America/Los_Angeles:20260501T110000
+DTSTAMP;TZID=America/Los_Angeles:20260414T135646
+UID:1858
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1858
+LAST-MODIFIED;TZID=America/Los_Angeles:20260414T135646
+LOCATION: -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fixit Clinic
+DTSTART;TZID=America/Los_Angeles:20260427T160000
+DTEND;TZID=America/Los_Angeles:20260427T190000
+DTSTAMP;TZID=America/Los_Angeles:20260414T140219
+UID:1853
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1853
+LAST-MODIFIED;TZID=America/Los_Angeles:20260414T140219
+LOCATION:<p data-pasted="true">Truckee Roundhouse<br><br></p> - 12116 Chan
+ delle Way Suite E3  Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=42
 END:VEVENT
 END:VCALENDAR
