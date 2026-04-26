@@ -965,6 +965,19 @@ LOCATION: -   Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=44
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2026 State of the Community
+DTSTART;TZID=America/Los_Angeles:20260514T170000
+DTEND;TZID=America/Los_Angeles:20260514T183000
+DTSTAMP;TZID=America/Los_Angeles:20260423T145204
+UID:1867
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1867
+LAST-MODIFIED;TZID=America/Los_Angeles:20260423T145204
+LOCATION:<p>Alder Creek Middle School</p> - 10931 Alder Drive  Truckee CA 
+ 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=44
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fixit Clinic
 DTSTART;TZID=America/Los_Angeles:20260427T160000
 DTEND;TZID=America/Los_Angeles:20260427T190000
@@ -1630,6 +1643,19 @@ LOCATION: -   Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=29
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Truckee Town Council Budget Workshop
+DTSTART;TZID=America/Los_Angeles:20260428T170000
+DTEND;TZID=America/Los_Angeles:20260428T220000
+DTSTAMP;TZID=America/Los_Angeles:20260423T131508
+UID:1790
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1790
+LAST-MODIFIED;TZID=America/Los_Angeles:20260423T131508
+LOCATION:<p>807 E Highway Street\, Fredericksburg\, TX 78624</p> - 10183 T
+ ruckee Airport Road  Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=29
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Thanksgiving Day Holiday Closure
 DTSTART;VALUE=DATE:20291123
 DTEND;VALUE=DATE:20291123
@@ -2194,6 +2220,19 @@ LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=24
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Truckee Town Council Budget Workshop
+DTSTART;TZID=America/Los_Angeles:20260428T170000
+DTEND;TZID=America/Los_Angeles:20260428T220000
+DTSTAMP;TZID=America/Los_Angeles:20260423T131508
+UID:1790
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1790
+LAST-MODIFIED;TZID=America/Los_Angeles:20260423T131508
+LOCATION:<p>807 E Highway Street\, Fredericksburg\, TX 78624</p> - 10183 T
+ ruckee Airport Road  Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=24
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Thanksgiving Day Holiday Closure
 DTSTART;VALUE=DATE:20291123
 DTEND;VALUE=DATE:20291123
@@ -2491,6 +2530,19 @@ SEQUENCE:0
 DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1703
 LAST-MODIFIED;TZID=America/Los_Angeles:20260120T115819
 LOCATION: -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Truckee Town Council Budget Workshop
+DTSTART;TZID=America/Los_Angeles:20260428T170000
+DTEND;TZID=America/Los_Angeles:20260428T220000
+DTSTAMP;TZID=America/Los_Angeles:20260423T131508
+UID:1790
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1790
+LAST-MODIFIED;TZID=America/Los_Angeles:20260423T131508
+LOCATION:<p>807 E Highway Street\, Fredericksburg\, TX 78624</p> - 10183 T
+ ruckee Airport Road  Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=30
 END:VEVENT
 BEGIN:VEVENT
@@ -2878,6 +2930,19 @@ LOCATION: -   Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Truckee Town Council Budget Workshop
+DTSTART;TZID=America/Los_Angeles:20260428T170000
+DTEND;TZID=America/Los_Angeles:20260428T220000
+DTSTAMP;TZID=America/Los_Angeles:20260423T131508
+UID:1790
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1790
+LAST-MODIFIED;TZID=America/Los_Angeles:20260423T131508
+LOCATION:<p>807 E Highway Street\, Fredericksburg\, TX 78624</p> - 10183 T
+ ruckee Airport Road  Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Thanksgiving Day Holiday Closure
 DTSTART;VALUE=DATE:20291123
 DTEND;VALUE=DATE:20291123
@@ -3475,6 +3540,27 @@ SEQUENCE:0
 DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1703
 LAST-MODIFIED;TZID=America/Los_Angeles:20260120T115819
 LOCATION: -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=28
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Estado de la Comunidad 2026
+DTSTART;TZID=America/Los_Angeles:20260514T170000
+DTEND;TZID=America/Los_Angeles:20260514T183000
+DTSTAMP;TZID=America/Los_Angeles:20260423T144523
+UID:1866
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1866
+LAST-MODIFIED;TZID=America/Los_Angeles:20260423T144523
+LOCATION:<p><span style="color: rgb(20\, 20\, 12)\; font-family: Arial\; f
+ ont-size: 15.2px\; font-style: normal\; font-variant-ligatures: normal\; f
+ ont-variant-caps: normal\; font-weight: 400\; letter-spacing: normal\; orp
+ hans: 2\; text-align: left\; text-indent: 0px\; text-transform: none\; wid
+ ows: 2\; word-spacing: 0px\; -webkit-text-stroke-width: 0px\; white-space:
+  normal\; background-color: rgb(255\, 255\, 255)\; text-decoration-thickne
+ ss: initial\; text-decoration-style: initial\; text-decoration-color: init
+ ial\; display: inline !important\; float: none\;" data-pasted="true">&nbsp
+ \;Alder Creek Middle School</span></p> - 10931 Alder Drive  Truckee CA 961
+ 61
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=28
 END:VEVENT
 BEGIN:VEVENT
@@ -7335,6 +7421,19 @@ LOCATION:<p>The Council Chambers at Truckee Town Hall.&nbsp\;</p> - 10183
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2026 State of the Community
+DTSTART;TZID=America/Los_Angeles:20260514T170000
+DTEND;TZID=America/Los_Angeles:20260514T183000
+DTSTAMP;TZID=America/Los_Angeles:20260423T145204
+UID:1867
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1867
+LAST-MODIFIED;TZID=America/Los_Angeles:20260423T145204
+LOCATION:<p>Alder Creek Middle School</p> - 10931 Alder Drive  Truckee CA 
+ 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Historic Preservation Advisory Commission 
 DTSTART;TZID=America/Los_Angeles:20260513T080000
 DTEND;TZID=America/Los_Angeles:20260513T100000
@@ -7374,6 +7473,18 @@ LOCATION:<p>Prosser Room at Town Hall</p> - 10183 Truckee Airport Rd  Truc
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Vanpool Lunch & Learn
+DTSTART;TZID=America/Los_Angeles:20260506T120000
+DTEND;TZID=America/Los_Angeles:20260506T130000
+DTSTAMP;TZID=America/Los_Angeles:20260423T125258
+UID:1865
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1865
+LAST-MODIFIED;TZID=America/Los_Angeles:20260423T125258
+LOCATION: - 10183 Truckee Airport Rd   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Public Art Commission of Truckee Meeting
 DTSTART;TZID=America/Los_Angeles:20260505T160000
 DTEND;TZID=America/Los_Angeles:20260505T180000
@@ -7383,6 +7494,19 @@ SEQUENCE:0
 DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=691
 LAST-MODIFIED;TZID=America/Los_Angeles:20250325T100524
 LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Special Planning Commission Meeting
+DTSTART;TZID=America/Los_Angeles:20260504T170000
+DTEND;TZID=America/Los_Angeles:20260504T220000
+DTSTAMP;TZID=America/Los_Angeles:20260420T102310
+UID:1862
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1862
+LAST-MODIFIED;TZID=America/Los_Angeles:20260420T102310
+LOCATION:<p>The Council Chambers at Truckee Town Hall.&nbsp\;</p> - 10183 
+ Truckee Airport Road  Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
@@ -7398,16 +7522,28 @@ LOCATION: -   Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Truckee Town Council\, Redevelopment Successor Agency\, and Financ
- ing Authority Meeting
+SUMMARY:Truckee Town Council Budget Workshop
 DTSTART;TZID=America/Los_Angeles:20260428T170000
 DTEND;TZID=America/Los_Angeles:20260428T220000
-DTSTAMP;TZID=America/Los_Angeles:20251229T160538
+DTSTAMP;TZID=America/Los_Angeles:20260423T131508
 UID:1790
 SEQUENCE:0
 DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1790
-LAST-MODIFIED;TZID=America/Los_Angeles:20251229T160538
-LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
+LAST-MODIFIED;TZID=America/Los_Angeles:20260423T131508
+LOCATION:<p>807 E Highway Street\, Fredericksburg\, TX 78624</p> - 10183 T
+ ruckee Airport Road  Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:River Revitalization Strategy Committee Meeting
+DTSTART;TZID=America/Los_Angeles:20260427T173000
+DTEND;TZID=America/Los_Angeles:20260427T190000
+DTSTAMP;TZID=America/Los_Angeles:20260423T095303
+UID:1864
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1864
+LAST-MODIFIED;TZID=America/Los_Angeles:20260423T095303
+LOCATION:<p>Council Chambers at Town Hall</p> -   Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
@@ -7424,16 +7560,15 @@ LOCATION:<p data-pasted="true">Truckee Roundhouse<br><br></p> - 12116 Chan
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Planning Commission Meeting
-DTSTART;TZID=America/Los_Angeles:20260421T170000
-DTEND;TZID=America/Los_Angeles:20260421T220000
-DTSTAMP;TZID=America/Los_Angeles:20260416T155022
-UID:1157
+SUMMARY:Town Talk - Demystifying the Town of Truckee Budget Process
+DTSTART;TZID=America/Los_Angeles:20260427T090000
+DTEND;TZID=America/Los_Angeles:20260427T100000
+DTSTAMP;TZID=America/Los_Angeles:20260423T105714
+UID:1863
 SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1157
-LAST-MODIFIED;TZID=America/Los_Angeles:20260416T155022
-LOCATION:<p>The Council Chambers at Truckee Town Hall.&nbsp\;</p> - 10183 
- Truckee Airport Road  Truckee CA 96161
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1863
+LAST-MODIFIED;TZID=America/Los_Angeles:20260423T105714
+LOCATION:<p>Springhill Suites</p> - 10640 Jibboom St  Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
@@ -9072,16 +9207,29 @@ LOCATION:<p>Prosser Room at Town Hall</p> - 10183 Truckee Airport Rd  Truc
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Planning Commission Meeting
-DTSTART;TZID=America/Los_Angeles:20260421T170000
-DTEND;TZID=America/Los_Angeles:20260421T220000
-DTSTAMP;TZID=America/Los_Angeles:20260416T155022
-UID:1157
+SUMMARY:Special Planning Commission Meeting
+DTSTART;TZID=America/Los_Angeles:20260504T170000
+DTEND;TZID=America/Los_Angeles:20260504T220000
+DTSTAMP;TZID=America/Los_Angeles:20260420T102310
+UID:1862
 SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1157
-LAST-MODIFIED;TZID=America/Los_Angeles:20260416T155022
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1862
+LAST-MODIFIED;TZID=America/Los_Angeles:20260420T102310
 LOCATION:<p>The Council Chambers at Truckee Town Hall.&nbsp\;</p> - 10183 
  Truckee Airport Road  Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Truckee Town Council Budget Workshop
+DTSTART;TZID=America/Los_Angeles:20260428T170000
+DTEND;TZID=America/Los_Angeles:20260428T220000
+DTSTAMP;TZID=America/Los_Angeles:20260423T131508
+UID:1790
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1790
+LAST-MODIFIED;TZID=America/Los_Angeles:20260423T131508
+LOCATION:<p>807 E Highway Street\, Fredericksburg\, TX 78624</p> - 10183 T
+ ruckee Airport Road  Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34
 END:VEVENT
 BEGIN:VEVENT
@@ -9382,6 +9530,19 @@ SEQUENCE:0
 DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1703
 LAST-MODIFIED;TZID=America/Los_Angeles:20260120T115819
 LOCATION: -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Truckee Town Council Budget Workshop
+DTSTART;TZID=America/Los_Angeles:20260428T170000
+DTEND;TZID=America/Los_Angeles:20260428T220000
+DTSTAMP;TZID=America/Los_Angeles:20260423T131508
+UID:1790
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1790
+LAST-MODIFIED;TZID=America/Los_Angeles:20260423T131508
+LOCATION:<p>807 E Highway Street\, Fredericksburg\, TX 78624</p> - 10183 T
+ ruckee Airport Road  Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35
 END:VEVENT
 BEGIN:VEVENT
@@ -10249,6 +10410,31 @@ LOCATION: -   Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=37
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Vanpool Lunch & Learn
+DTSTART;TZID=America/Los_Angeles:20260506T120000
+DTEND;TZID=America/Los_Angeles:20260506T130000
+DTSTAMP;TZID=America/Los_Angeles:20260423T125258
+UID:1865
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1865
+LAST-MODIFIED;TZID=America/Los_Angeles:20260423T125258
+LOCATION: - 10183 Truckee Airport Rd   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=37
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Truckee Town Council Budget Workshop
+DTSTART;TZID=America/Los_Angeles:20260428T170000
+DTEND;TZID=America/Los_Angeles:20260428T220000
+DTSTAMP;TZID=America/Los_Angeles:20260423T131508
+UID:1790
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1790
+LAST-MODIFIED;TZID=America/Los_Angeles:20260423T131508
+LOCATION:<p>807 E Highway Street\, Fredericksburg\, TX 78624</p> - 10183 T
+ ruckee Airport Road  Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=37
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Thanksgiving Day Holiday Closure
 DTSTART;VALUE=DATE:20291123
 DTEND;VALUE=DATE:20291123
@@ -10849,6 +11035,18 @@ LOCATION: -   Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=46
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:River Revitalization Strategy Committee Meeting
+DTSTART;TZID=America/Los_Angeles:20260427T173000
+DTEND;TZID=America/Los_Angeles:20260427T190000
+DTSTAMP;TZID=America/Los_Angeles:20260423T095303
+UID:1864
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1864
+LAST-MODIFIED;TZID=America/Los_Angeles:20260423T095303
+LOCATION:<p>Council Chambers at Town Hall</p> -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=46
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Thanksgiving Day Holiday Closure
 DTSTART;VALUE=DATE:20291123
 DTEND;VALUE=DATE:20291123
@@ -11146,6 +11344,19 @@ SEQUENCE:0
 DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1703
 LAST-MODIFIED;TZID=America/Los_Angeles:20260120T115819
 LOCATION: -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=39
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Truckee Town Council Budget Workshop
+DTSTART;TZID=America/Los_Angeles:20260428T170000
+DTEND;TZID=America/Los_Angeles:20260428T220000
+DTSTAMP;TZID=America/Los_Angeles:20260423T131508
+UID:1790
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1790
+LAST-MODIFIED;TZID=America/Los_Angeles:20260423T131508
+LOCATION:<p>807 E Highway Street\, Fredericksburg\, TX 78624</p> - 10183 T
+ ruckee Airport Road  Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=39
 END:VEVENT
 BEGIN:VEVENT
@@ -11533,6 +11744,19 @@ SEQUENCE:0
 DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1858
 LAST-MODIFIED;TZID=America/Los_Angeles:20260414T135646
 LOCATION: -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Truckee Town Council Budget Workshop
+DTSTART;TZID=America/Los_Angeles:20260428T170000
+DTEND;TZID=America/Los_Angeles:20260428T220000
+DTSTAMP;TZID=America/Los_Angeles:20260423T131508
+UID:1790
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1790
+LAST-MODIFIED;TZID=America/Los_Angeles:20260423T131508
+LOCATION:<p>807 E Highway Street\, Fredericksburg\, TX 78624</p> - 10183 T
+ ruckee Airport Road  Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=40
 END:VEVENT
 BEGIN:VEVENT
@@ -12669,16 +12893,16 @@ LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=45
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Truckee Town Council\, Redevelopment Successor Agency\, and Financ
- ing Authority Meeting
+SUMMARY:Truckee Town Council Budget Workshop
 DTSTART;TZID=America/Los_Angeles:20260428T170000
 DTEND;TZID=America/Los_Angeles:20260428T220000
-DTSTAMP;TZID=America/Los_Angeles:20251229T160538
+DTSTAMP;TZID=America/Los_Angeles:20260423T131508
 UID:1790
 SEQUENCE:0
 DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1790
-LAST-MODIFIED;TZID=America/Los_Angeles:20251229T160538
-LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
+LAST-MODIFIED;TZID=America/Los_Angeles:20260423T131508
+LOCATION:<p>807 E Highway Street\, Fredericksburg\, TX 78624</p> - 10183 T
+ ruckee Airport Road  Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=45
 END:VEVENT
 BEGIN:VEVENT
