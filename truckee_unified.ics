@@ -929,6 +929,19 @@ LOCATION: -   Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=44
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Shred It!
+DTSTART;TZID=America/Los_Angeles:20260606T100000
+DTEND;TZID=America/Los_Angeles:20260606T120000
+DTSTAMP;TZID=America/Los_Angeles:20260507T154712
+UID:1871
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1871
+LAST-MODIFIED;TZID=America/Los_Angeles:20260507T154712
+LOCATION:<p>Town Hall parking lot&nbsp\;</p> - 10183 Truckee Airport Road 
+  Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=44
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Truckee Day
 DTSTART;TZID=America/Los_Angeles:20260606T080000
 DTEND;TZID=America/Los_Angeles:20260606T140000
@@ -2179,19 +2192,6 @@ SEQUENCE:0
 DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1703
 LAST-MODIFIED;TZID=America/Los_Angeles:20260120T115819
 LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=24
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Public Art Commission of Truckee Meeting
-DTSTART;TZID=America/Los_Angeles:20260505T160000
-DTEND;TZID=America/Los_Angeles:20260505T180000
-DTSTAMP;TZID=America/Los_Angeles:20260429T135621
-UID:691
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=691
-LAST-MODIFIED;TZID=America/Los_Angeles:20260429T135621
-LOCATION:<p>Trout Creek Room</p> - 10183 Truckee Airport Road  Truckee CA 
- 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=24
 END:VEVENT
 BEGIN:VEVENT
@@ -7204,6 +7204,19 @@ LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Shred It!
+DTSTART;TZID=America/Los_Angeles:20260606T100000
+DTEND;TZID=America/Los_Angeles:20260606T120000
+DTSTAMP;TZID=America/Los_Angeles:20260507T154712
+UID:1871
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1871
+LAST-MODIFIED;TZID=America/Los_Angeles:20260507T154712
+LOCATION:<p>Town Hall parking lot&nbsp\;</p> - 10183 Truckee Airport Road 
+  Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Truckee Day
 DTSTART;TZID=America/Los_Angeles:20260606T080000
 DTEND;TZID=America/Los_Angeles:20260606T140000
@@ -7385,11 +7398,11 @@ BEGIN:VEVENT
 SUMMARY:Historic Preservation Advisory Commission 
 DTSTART;TZID=America/Los_Angeles:20260513T080000
 DTEND;TZID=America/Los_Angeles:20260513T100000
-DTSTAMP;TZID=America/Los_Angeles:20240318T140723
+DTSTAMP;TZID=America/Los_Angeles:20260507T141717
 UID:1262
 SEQUENCE:0
 DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1262
-LAST-MODIFIED;TZID=America/Los_Angeles:20240318T140723
+LAST-MODIFIED;TZID=America/Los_Angeles:20260507T141717
 LOCATION:<p id="isPasted">&nbsp\;The Council Chambers at Truckee Town Hall
  &nbsp\;</p> - 10183 Truckee Airport Road  Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
@@ -7399,63 +7412,24 @@ SUMMARY:Truckee Town Council\, Redevelopment Successor Agency\, and Financ
  ing Authority Meeting
 DTSTART;TZID=America/Los_Angeles:20260512T170000
 DTEND;TZID=America/Los_Angeles:20260512T220000
-DTSTAMP;TZID=America/Los_Angeles:20251229T155253
+DTSTAMP;TZID=America/Los_Angeles:20260507T160858
 UID:1766
 SEQUENCE:0
 DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1766
-LAST-MODIFIED;TZID=America/Los_Angeles:20251229T155253
-LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
+LAST-MODIFIED;TZID=America/Los_Angeles:20260507T160858
+LOCATION: - 10183 Truckee Airport Road Council Chambers Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Canceled: Zoning Administrator Meeting 
-DTSTART;TZID=America/Los_Angeles:20260506T130000
-DTEND;TZID=America/Los_Angeles:20260506T140000
-DTSTAMP;TZID=America/Los_Angeles:20260427T093631
-UID:1104
+SUMMARY:Truckee Town Council Closed Session
+DTSTART;TZID=America/Los_Angeles:20260512T163000
+DTEND;TZID=America/Los_Angeles:20260512T170000
+DTSTAMP;TZID=America/Los_Angeles:20260507T160904
+UID:1872
 SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1104
-LAST-MODIFIED;TZID=America/Los_Angeles:20260427T093631
-LOCATION:<p>Prosser Room at Town Hall</p> - 10183 Truckee Airport Rd  Truc
- kee Ca 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vanpool Lunch & Learn
-DTSTART;TZID=America/Los_Angeles:20260506T120000
-DTEND;TZID=America/Los_Angeles:20260506T130000
-DTSTAMP;TZID=America/Los_Angeles:20260423T125258
-UID:1865
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1865
-LAST-MODIFIED;TZID=America/Los_Angeles:20260423T125258
-LOCATION: - 10183 Truckee Airport Rd   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Public Art Commission of Truckee Meeting
-DTSTART;TZID=America/Los_Angeles:20260505T160000
-DTEND;TZID=America/Los_Angeles:20260505T180000
-DTSTAMP;TZID=America/Los_Angeles:20260429T135621
-UID:691
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=691
-LAST-MODIFIED;TZID=America/Los_Angeles:20260429T135621
-LOCATION:<p>Trout Creek Room</p> - 10183 Truckee Airport Road  Truckee CA 
- 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Special Planning Commission Meeting
-DTSTART;TZID=America/Los_Angeles:20260504T170000
-DTEND;TZID=America/Los_Angeles:20260504T220000
-DTSTAMP;TZID=America/Los_Angeles:20260429T161233
-UID:1862
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1862
-LAST-MODIFIED;TZID=America/Los_Angeles:20260429T161233
-LOCATION:<p>The Council Chambers at Truckee Town Hall.&nbsp\;</p> - 10183 
- Truckee Airport Road  Truckee CA 96161
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1872
+LAST-MODIFIED;TZID=America/Los_Angeles:20260507T160904
+LOCATION: - 10183 Truckee Airport Road Council Chambers Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
@@ -9084,39 +9058,13 @@ BEGIN:VEVENT
 SUMMARY:Historic Preservation Advisory Commission 
 DTSTART;TZID=America/Los_Angeles:20260513T080000
 DTEND;TZID=America/Los_Angeles:20260513T100000
-DTSTAMP;TZID=America/Los_Angeles:20240318T140723
+DTSTAMP;TZID=America/Los_Angeles:20260507T141717
 UID:1262
 SEQUENCE:0
 DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1262
-LAST-MODIFIED;TZID=America/Los_Angeles:20240318T140723
+LAST-MODIFIED;TZID=America/Los_Angeles:20260507T141717
 LOCATION:<p id="isPasted">&nbsp\;The Council Chambers at Truckee Town Hall
  &nbsp\;</p> - 10183 Truckee Airport Road  Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Canceled: Zoning Administrator Meeting 
-DTSTART;TZID=America/Los_Angeles:20260506T130000
-DTEND;TZID=America/Los_Angeles:20260506T140000
-DTSTAMP;TZID=America/Los_Angeles:20260427T093631
-UID:1104
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1104
-LAST-MODIFIED;TZID=America/Los_Angeles:20260427T093631
-LOCATION:<p>Prosser Room at Town Hall</p> - 10183 Truckee Airport Rd  Truc
- kee Ca 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Special Planning Commission Meeting
-DTSTART;TZID=America/Los_Angeles:20260504T170000
-DTEND;TZID=America/Los_Angeles:20260504T220000
-DTSTAMP;TZID=America/Los_Angeles:20260429T161233
-UID:1862
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1862
-LAST-MODIFIED;TZID=America/Los_Angeles:20260429T161233
-LOCATION:<p>The Council Chambers at Truckee Town Hall.&nbsp\;</p> - 10183 
- Truckee Airport Road  Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=34
 END:VEVENT
 BEGIN:VEVENT
@@ -9405,6 +9353,19 @@ SEQUENCE:0
 DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1707
 LAST-MODIFIED;TZID=America/Los_Angeles:20260120T115940
 LOCATION: -   Truckee CA 96161
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shred It!
+DTSTART;TZID=America/Los_Angeles:20260606T100000
+DTEND;TZID=America/Los_Angeles:20260606T120000
+DTSTAMP;TZID=America/Los_Angeles:20260507T154712
+UID:1871
+SEQUENCE:0
+DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1871
+LAST-MODIFIED;TZID=America/Los_Angeles:20260507T154712
+LOCATION:<p>Town Hall parking lot&nbsp\;</p> - 10183 Truckee Airport Road 
+  Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35
 END:VEVENT
 BEGIN:VEVENT
@@ -9972,19 +9933,6 @@ LOCATION: -   Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=36
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Public Art Commission of Truckee Meeting
-DTSTART;TZID=America/Los_Angeles:20260505T160000
-DTEND;TZID=America/Los_Angeles:20260505T180000
-DTSTAMP;TZID=America/Los_Angeles:20260429T135621
-UID:691
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=691
-LAST-MODIFIED;TZID=America/Los_Angeles:20260429T135621
-LOCATION:<p>Trout Creek Room</p> - 10183 Truckee Airport Road  Truckee CA 
- 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=36
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Thanksgiving Day Holiday Closure
 DTSTART;VALUE=DATE:20291123
 DTEND;VALUE=DATE:20291123
@@ -10282,18 +10230,6 @@ SEQUENCE:0
 DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1703
 LAST-MODIFIED;TZID=America/Los_Angeles:20260120T115819
 LOCATION: -   Truckee CA 96161
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=37
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vanpool Lunch & Learn
-DTSTART;TZID=America/Los_Angeles:20260506T120000
-DTEND;TZID=America/Los_Angeles:20260506T130000
-DTSTAMP;TZID=America/Los_Angeles:20260423T125258
-UID:1865
-SEQUENCE:0
-DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1865
-LAST-MODIFIED;TZID=America/Los_Angeles:20260423T125258
-LOCATION: - 10183 Truckee Airport Rd   Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=37
 END:VEVENT
 BEGIN:VEVENT
@@ -12695,12 +12631,12 @@ SUMMARY:Truckee Town Council\, Redevelopment Successor Agency\, and Financ
  ing Authority Meeting
 DTSTART;TZID=America/Los_Angeles:20260512T170000
 DTEND;TZID=America/Los_Angeles:20260512T220000
-DTSTAMP;TZID=America/Los_Angeles:20251229T155253
+DTSTAMP;TZID=America/Los_Angeles:20260507T160858
 UID:1766
 SEQUENCE:0
 DESCRIPTION: https://www.townoftruckee.gov/calendar.aspx?EID=1766
-LAST-MODIFIED;TZID=America/Los_Angeles:20251229T155253
-LOCATION: - 10183 Truckee Airport Road  Truckee CA 96161
+LAST-MODIFIED;TZID=America/Los_Angeles:20260507T160858
+LOCATION: - 10183 Truckee Airport Road Council Chambers Truckee CA 96161
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=45
 END:VEVENT
 BEGIN:VEVENT
