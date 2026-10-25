@@ -1,8 +1,8 @@
-name: Update Calendar Daily
+name: Update Calendar Weekly
 
 on:
   schedule:
-    - cron: '0 08 * * 0'  # Runs at 8 AM UTC (12 AM PST) daily
+    - cron: '0 08 * * 0'  # Runs weekly, Sundays at 8 AM UTC (1 AM PDT / 12 AM PST)
   workflow_dispatch:  # Allows manual trigger from GitHub
 
 jobs:
